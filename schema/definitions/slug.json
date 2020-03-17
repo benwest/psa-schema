@@ -1,0 +1,7 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/definitions/slug.json",
+    "description": "URL-safe slug and unique ID for pages",
+    "type": "string",
+    "pattern": "^[-a-zA-Z0-9_]+$"
+}

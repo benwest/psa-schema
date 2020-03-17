@@ -1,0 +1,43 @@
+{
+    "slug": "new-new-angel",
+    "title": "New New Angel",
+    "artist": "Boat Zhang",
+    "collectionNumber": "000106",
+    "date": "2016",
+    "medium": "Video, Performance",
+    "details": [{
+        "label": "Duration",
+        "value": "9'03''"
+    }],
+    "blocks": [{
+        "type": "text",
+        "title": "Description",
+        "body": "Boat Zhang refers to these videos of physical performances and video work as \"a group of body practices.\" Through these \"very small, simple points, ambivalent actions related to her body, emotion and private daily life,\" she revisits themes of daily life, choice, fate, femininity, and individual identity with a unique view. Her works also reflect the spiritual need of turning inward when living in the collective. In one of the videos on display, New Angel, the artist is shown walking slowly against the flow of the crowd in a subway station. Can it ever be concluded if one was walking with or against the crowd? As the artist has said, \"I'm forever walking toward/away from you.\""
+    },{
+        "type": "video",
+        "title": "Artist Interview",
+        "url": "http://powerstationofart.com/boat-zhang.mp4",
+        "preview": {
+            "ratio": 0.56,
+            "placeholder": "http://powerstationofart.com/boat-zhang-interview-preview-placeholder.jpg",
+            "srcs": [{
+                "w": 200,
+                "h": 300,
+                "url": "http://powerstationofart.com/boat-zhang-interview-preview-200.jpg"
+            }]
+        }
+    },{
+        "type": "bio",
+        "title": "Artist CV",
+        "image": {
+            "alt": "Boat Zhang portrait",
+            "ratio": 1.5,
+            "placeholder": "http://powerstationofart.com/boat-zhang-portrait-placeholder.jpg",
+            "srcs": [{
+                "w": 200,
+                "h": 300,
+                "url": "http://powerstationofart.com/boat-zhang-portrait-200.jpg"
+            }]
+        }
+    }]
+}

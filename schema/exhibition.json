@@ -1,0 +1,18 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/exhibition.json",
+    "description": "Exhibition in What's On",
+    "type": "object",
+    "properties": {
+        "slug": { "$ref": "definitions/slug.json" },
+        "title": { "type": "string" },
+        "poster": { "$ref": "definitions/image.json" },
+        "image": { "$ref": "definitions/image.json" },
+        "startDate": { "type": "string", "format": "date" },
+        "endDate": { "type": "string", "format": "date" },
+        "details": { "$ref": "definitions/details.json" },
+        "blocks": { "$ref": "definitions/blocks.json" }
+    },
+    "required": [ "slug", "title", "poster", "image", "startDate", "endDate", "details", "blocks" ],
+    "additionalProperties": false
+  }

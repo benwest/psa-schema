@@ -1,0 +1,16 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/definitions/blocks.json",
+    "description": "Content blocks for authoring content",
+    "type": "array",
+    "items": {
+        "anyOf": [
+            { "$ref": "blocks/text.json" },
+            { "$ref": "blocks/bio.json" },
+            { "$ref": "blocks/image.json" },
+            { "$ref": "blocks/carousel.json" },
+            { "$ref": "blocks/gallery.json" },
+            { "$ref": "blocks/video.json" }
+        ]
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/definitions/blocks/text.json",
+    "type": "object",
+    "required": [ "body" ],
+    "additionalProperties": false,
+    "properties": {
+        "type": { "const": "text" },
+        "title": { "type": "string" },
+        "body": { "type": "string" }
+    }
+}

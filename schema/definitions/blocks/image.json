@@ -1,0 +1,12 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/definitions/blocks/image.json",
+    "type": "object",
+    "required": [ "file" ],
+    "additionalProperties": false,
+    "properties": {
+        "type": { "const": "image" },
+        "title": { "type": "string" },
+        "file": { "$ref": "../image.json" }
+    }
+}
