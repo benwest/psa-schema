@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-#PSA JSON API Schema
-=======
 # PSA JSON API Schema
 
 ## URLs
@@ -13,14 +10,14 @@
 
 ### A Power Store
 
-**URL**: `/a-power-store?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>`
+**URL**: `/a-power-store?offset=<offset>&limit=<limit>&productType=<productType>&tags=<tags>`
 
 **Schema**: schema/a-power-store.json
 
 **Parameters**
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
-- **type**: Filter by productType of the item
+- **productType**: Filter by productType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
 
 ### A Power Store: Product
@@ -37,14 +34,14 @@
 
 ### PSA Collections
 
-**URL**: `/psa-collections?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>`
+**URL**: `/psa-collections?offset=<offset>&limit=<limit>&artworkType=<artworkType>&tags=<tags>`
 
 **Schema**: schema/psa-collections.json
 
 **Parameters**
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
-- **type**: Filter by artworkType of the item
+- **artworkType**: Filter by artworkType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
 
 ### PSA Collections: Artwork
@@ -78,14 +75,14 @@
 
 ### What's On: Activities
 
-**URL**: `/whats-on/activities?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>`
+**URL**: `/whats-on/activities?offset=<offset>&limit=<limit>&activityType=<activityType>&tags=<tags>`
 
 **Schema**: schema/exhibitions.json
 
 **Parameters**
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
-- **type**: Filter by activityType of the item
+- **activityType**: Filter by activityType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
 
 ### What's On: Activity
@@ -96,12 +93,12 @@
 
 ### What's On: News
 
-**URL**: `/whats-on/news?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>`
+**URL**: `/whats-on/news?offset=<offset>&limit=<limit>&newsType=<newsType>&tags=<tags>`
 
 **Parameters**
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
-- **type**: Filter by newsType of the item
+- **newsType**: Filter by newsType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
 
 **Schema**: schema/news.json
@@ -140,5 +137,3 @@
 - **q**: The search query
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
-
->>>>>>> 04601feda04cb7fd1ee7eea49769641410037b9d
