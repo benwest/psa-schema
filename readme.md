@@ -96,4 +96,4 @@
 
 **URL**: `/more/contact`
 
-**Schema**: schema/contact.json
+**Schema**: schema/page.json
