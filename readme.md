@@ -127,7 +127,7 @@
 
 **Schema**: schema/page.json
 
-### Search Result
+### Search Results
 
 **URL** `/search?q=<q>&limit=<limit>&offset=<offset>`
 
