@@ -14,6 +14,12 @@
 
 **Schema**: schema/a-power-store.json
 
+**Parameters**
+- **limit**: Maximum number of items returned
+- **offset**: Index of the first item
+- **type**: Filter by productType of the item
+- **tags**: Filter by tags of the item
+
 ### A Power Store: Product
 
 **URL**: `/a-power-store/<slug>`
@@ -31,6 +37,12 @@
 **URL**: `/psa-collections?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>`
 
 **Schema**: schema/psa-collections.json
+
+**Parameters**
+- **limit**: Maximum number of items returned
+- **offset**: Index of the first item
+- **type**: Filter by artworkType of the item
+- **tags**: Filter by tags of the item
 
 ### PSA Collections: Artwork
 
@@ -50,6 +62,11 @@
 
 **Schema**: schema/exhibitions.json
 
+**Parameters**
+- **limit**: Maximum number of items returned
+- **offset**: Index of the first item
+- **tags**: Filter by tags of the item
+
 ### What's On: Exhibition
 
 **URL**: `/whats-on/exhibitions/<slug>`
@@ -62,6 +79,12 @@
 
 **Schema**: schema/exhibitions.json
 
+**Parameters**
+- **limit**: Maximum number of items returned
+- **offset**: Index of the first item
+- **type**: Filter by activityType of the item
+- **tags**: Filter by tags of the item
+
 ### What's On: Activity
 
 **URL**: `/whats-on/activities/<slug>`
@@ -71,6 +94,12 @@
 ### What's On: News
 
 **URL**: `/whats-on/news?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>`
+
+**Parameters**
+- **limit**: Maximum number of items returned
+- **offset**: Index of the first item
+- **type**: Filter by newsType of the item
+- **tags**: Filter by tags of the item
 
 **Schema**: schema/news.json
 
