@@ -1,0 +1,582 @@
+{
+    "title": "The Return of Guests: Selections from the PSA Collection",
+    "slug": "the-return-of-guests-selections-from-the-psa-collection",
+    "tags": [
+        {
+            "title": "Fine Art",
+            "slug": "fine-art"
+        }
+    ],
+    "colors": {
+        "background": "#A6A7A9"
+    },
+    "poster": {
+        "ratio": 1.41,
+        "placeholder": "http://powerstationofart.com/img/return-of-guests-poster.jpg_placeholder.jpg",
+        "srcs": [
+            {
+                "width": 200,
+                "height": 133,
+                "url": "http://powerstationofart.com/img/return-of-guests-poster.jpg_200.jpg"
+            },
+            {
+                "width": 400,
+                "height": 266,
+                "url": "http://powerstationofart.com/img/return-of-guests-poster.jpg_400.jpg"
+            },
+            {
+                "width": 800,
+                "height": 533,
+                "url": "http://powerstationofart.com/img/return-of-guests-poster.jpg_800.jpg"
+            },
+            {
+                "width": 1200,
+                "height": 800,
+                "url": "http://powerstationofart.com/img/return-of-guests-poster.jpg_1200.jpg"
+            },
+            {
+                "width": 1600,
+                "height": 1066,
+                "url": "http://powerstationofart.com/img/return-of-guests-poster.jpg_1600.jpg"
+            }
+        ]
+    },
+    "image": {
+        "ratio": 0.6666666666666666,
+        "placeholder": "http://powerstationofart.com/img/return-of-guests-main.jpg_placeholder.jpg",
+        "srcs": [
+            {
+                "width": 200,
+                "height": 133,
+                "url": "http://powerstationofart.com/img/return-of-guests-main.jpg_200.jpg"
+            },
+            {
+                "width": 400,
+                "height": 266,
+                "url": "http://powerstationofart.com/img/return-of-guests-main.jpg_400.jpg"
+            },
+            {
+                "width": 800,
+                "height": 533,
+                "url": "http://powerstationofart.com/img/return-of-guests-main.jpg_800.jpg"
+            },
+            {
+                "width": 1200,
+                "height": 800,
+                "url": "http://powerstationofart.com/img/return-of-guests-main.jpg_1200.jpg"
+            },
+            {
+                "width": 1600,
+                "height": 1066,
+                "url": "http://powerstationofart.com/img/return-of-guests-main.jpg_1600.jpg"
+            }
+        ]
+    },
+    "startDate": "2018-11-13T20:20:39+00:00",
+    "endDate": "2018-11-13T20:20:39+00:00",
+    "details": [
+        {
+            "label": "Location",
+            "value": "2F, PSA"
+        },
+        {
+            "label": "Organiser",
+            "value": "Power Station of Art"
+        },
+        {
+            "label": "Admission",
+            "value": "¥100"
+        },
+        {
+            "label": "Thanks",
+            "value": "Epson (China)\nTopping Picture\nChengji Design"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "text",
+            "body": "From September 20, 2019 to March 8, 2020, Shanghai’s Power Station of Art will proudly present its first-ever exhibition dedicated to works from the contemporary art museum’s permanent collection, The Return of Guests: Selections from the PSA Collection. Covering a wide range of media including video, photography, painting, sculpture, installation and literature, the exhibition will present more than 60 artworks by nearly 40 artists and collectives housed inside the former power plant."
+        },
+        {
+            "type": "text",
+            "title": "Artists",
+            "body": "Selections from the PSA Collection include Rheim Alkadhi, aaajiao, Joseph Beuys, Cai Guo-Qiang, Chen Chieh-jen, Chen Shaoxiong, Franklin Chow, Loris Cecchini, Musquiqui Chihying, Datong Dazhang, Ding Yi, Verina Gfader, Huang Yong Ping, Hao Jingban, Hu Xiaoyuan, Hu Jieming, Hu Weiyi, Li Shan, Lin Ke, Ma Haijiao, Nabuqi, Roman Signer, Superflex, Shen Yuan, Shi Zhiying, Irrelevant Commission, Pae White, Hiroshi Watanabe, Pascale Tayou, Wang Gongxin, Wang Jingsong, Yu Youhan, Yang Fudong, Yang Zhenzhong, Boat Zhang and so on. The museum will also provide continuous updates to lists of selected artists and artworks as the exhibition period advances."
+        },
+        {
+            "type": "video",
+            "title": "Exhibition Trailer",
+            "url": "http://powerstationofart.com/return-of-guests-trailer.mp4",
+            "preview": {
+                "ratio": 0.56,
+                "placeholder": "http://powerstationofart.com/img/return-of-guests-trailer-preview.jpg_placeholder.jpg",
+                "srcs": [
+                    {
+                        "width": 200,
+                        "height": 133,
+                        "url": "http://powerstationofart.com/img/return-of-guests-trailer-preview.jpg_200.jpg"
+                    },
+                    {
+                        "width": 400,
+                        "height": 266,
+                        "url": "http://powerstationofart.com/img/return-of-guests-trailer-preview.jpg_400.jpg"
+                    },
+                    {
+                        "width": 800,
+                        "height": 533,
+                        "url": "http://powerstationofart.com/img/return-of-guests-trailer-preview.jpg_800.jpg"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 800,
+                        "url": "http://powerstationofart.com/img/return-of-guests-trailer-preview.jpg_1200.jpg"
+                    },
+                    {
+                        "width": 1600,
+                        "height": 1066,
+                        "url": "http://powerstationofart.com/img/return-of-guests-trailer-preview.jpg_1600.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "embed",
+            "title": "Panorama",
+            "ratio": 0.56,
+            "url": "https://panorama-viewer.com/panorama.html"
+        },
+        {
+            "type": "gallery",
+            "title": "Exhibition Works",
+            "images": [
+                {
+                    "ratio": 0.6666666666666666,
+                    "placeholder": "http://powerstationofart.com/img/return-of-guests-works-1.jpg_placeholder.jpg",
+                    "srcs": [
+                        {
+                            "width": 200,
+                            "height": 133,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-1.jpg_200.jpg"
+                        },
+                        {
+                            "width": 400,
+                            "height": 266,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-1.jpg_400.jpg"
+                        },
+                        {
+                            "width": 800,
+                            "height": 533,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-1.jpg_800.jpg"
+                        },
+                        {
+                            "width": 1200,
+                            "height": 800,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-1.jpg_1200.jpg"
+                        },
+                        {
+                            "width": 1600,
+                            "height": 1066,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-1.jpg_1600.jpg"
+                        }
+                    ]
+                },
+                {
+                    "ratio": 0.6666666666666666,
+                    "placeholder": "http://powerstationofart.com/img/return-of-guests-works-2.jpg_placeholder.jpg",
+                    "srcs": [
+                        {
+                            "width": 200,
+                            "height": 133,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-2.jpg_200.jpg"
+                        },
+                        {
+                            "width": 400,
+                            "height": 266,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-2.jpg_400.jpg"
+                        },
+                        {
+                            "width": 800,
+                            "height": 533,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-2.jpg_800.jpg"
+                        },
+                        {
+                            "width": 1200,
+                            "height": 800,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-2.jpg_1200.jpg"
+                        },
+                        {
+                            "width": 1600,
+                            "height": 1066,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-2.jpg_1600.jpg"
+                        }
+                    ]
+                },
+                {
+                    "ratio": 0.6666666666666666,
+                    "placeholder": "http://powerstationofart.com/img/return-of-guests-works-2.jpg_placeholder.jpg",
+                    "srcs": [
+                        {
+                            "width": 200,
+                            "height": 133,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-2.jpg_200.jpg"
+                        },
+                        {
+                            "width": 400,
+                            "height": 266,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-2.jpg_400.jpg"
+                        },
+                        {
+                            "width": 800,
+                            "height": 533,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-2.jpg_800.jpg"
+                        },
+                        {
+                            "width": 1200,
+                            "height": 800,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-2.jpg_1200.jpg"
+                        },
+                        {
+                            "width": 1600,
+                            "height": 1066,
+                            "url": "http://powerstationofart.com/img/return-of-guests-works-2.jpg_1600.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "gallery",
+            "title": "Installation Views",
+            "images": [
+                {
+                    "ratio": 0.6666666666666666,
+                    "placeholder": "http://powerstationofart.com/img/return-of-guests-installation-1.jpg_placeholder.jpg",
+                    "srcs": [
+                        {
+                            "width": 200,
+                            "height": 133,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-1.jpg_200.jpg"
+                        },
+                        {
+                            "width": 400,
+                            "height": 266,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-1.jpg_400.jpg"
+                        },
+                        {
+                            "width": 800,
+                            "height": 533,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-1.jpg_800.jpg"
+                        },
+                        {
+                            "width": 1200,
+                            "height": 800,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-1.jpg_1200.jpg"
+                        },
+                        {
+                            "width": 1600,
+                            "height": 1066,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-1.jpg_1600.jpg"
+                        }
+                    ]
+                },
+                {
+                    "ratio": 0.6666666666666666,
+                    "placeholder": "http://powerstationofart.com/img/return-of-guests-installation-2.jpg_placeholder.jpg",
+                    "srcs": [
+                        {
+                            "width": 200,
+                            "height": 133,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-2.jpg_200.jpg"
+                        },
+                        {
+                            "width": 400,
+                            "height": 266,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-2.jpg_400.jpg"
+                        },
+                        {
+                            "width": 800,
+                            "height": 533,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-2.jpg_800.jpg"
+                        },
+                        {
+                            "width": 1200,
+                            "height": 800,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-2.jpg_1200.jpg"
+                        },
+                        {
+                            "width": 1600,
+                            "height": 1066,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-2.jpg_1600.jpg"
+                        }
+                    ]
+                },
+                {
+                    "ratio": 0.6666666666666666,
+                    "placeholder": "http://powerstationofart.com/img/return-of-guests-installation-2.jpg_placeholder.jpg",
+                    "srcs": [
+                        {
+                            "width": 200,
+                            "height": 133,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-2.jpg_200.jpg"
+                        },
+                        {
+                            "width": 400,
+                            "height": 266,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-2.jpg_400.jpg"
+                        },
+                        {
+                            "width": 800,
+                            "height": 533,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-2.jpg_800.jpg"
+                        },
+                        {
+                            "width": 1200,
+                            "height": 800,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-2.jpg_1200.jpg"
+                        },
+                        {
+                            "width": 1600,
+                            "height": 1066,
+                            "url": "http://powerstationofart.com/img/return-of-guests-installation-2.jpg_1600.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "activities",
+            "title": "Related Activities",
+            "activities": [
+                {
+                    "title": "The Historical Backlash of Lee Ufan",
+                    "slug": "the-historical-backlash-of-lee-ufan",
+                    "activityType": {
+                        "title": "Talk",
+                        "slug": "talk"
+                    },
+                    "image": {
+                        "ratio": 0.6666666666666666,
+                        "placeholder": "http://powerstationofart.com/img/lee-ufan.jpg_placeholder.jpg",
+                        "srcs": [
+                            {
+                                "width": 200,
+                                "height": 133,
+                                "url": "http://powerstationofart.com/img/lee-ufan.jpg_200.jpg"
+                            },
+                            {
+                                "width": 400,
+                                "height": 266,
+                                "url": "http://powerstationofart.com/img/lee-ufan.jpg_400.jpg"
+                            },
+                            {
+                                "width": 800,
+                                "height": 533,
+                                "url": "http://powerstationofart.com/img/lee-ufan.jpg_800.jpg"
+                            },
+                            {
+                                "width": 1200,
+                                "height": 800,
+                                "url": "http://powerstationofart.com/img/lee-ufan.jpg_1200.jpg"
+                            },
+                            {
+                                "width": 1600,
+                                "height": 1066,
+                                "url": "http://powerstationofart.com/img/lee-ufan.jpg_1600.jpg"
+                            }
+                        ]
+                    },
+                    "date": "2018-11-13T20:20:39+00:00"
+                },
+                {
+                    "title": "Archives, Translations and Protocols",
+                    "slug": "archives-translations-and-protocols",
+                    "activityType": {
+                        "title": "Talk",
+                        "slug": "talk"
+                    },
+                    "image": {
+                        "ratio": 0.6666666666666666,
+                        "placeholder": "http://powerstationofart.com/img/archives-translations-protocols.jpg_placeholder.jpg",
+                        "srcs": [
+                            {
+                                "width": 200,
+                                "height": 133,
+                                "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_200.jpg"
+                            },
+                            {
+                                "width": 400,
+                                "height": 266,
+                                "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_400.jpg"
+                            },
+                            {
+                                "width": 800,
+                                "height": 533,
+                                "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_800.jpg"
+                            },
+                            {
+                                "width": 1200,
+                                "height": 800,
+                                "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_1200.jpg"
+                            },
+                            {
+                                "width": 1600,
+                                "height": 1066,
+                                "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_1600.jpg"
+                            }
+                        ]
+                    },
+                    "date": "2018-11-13T20:20:39+00:00"
+                },
+                {
+                    "title": "Modern Architecture in Paris, 1918-1940",
+                    "slug": "modern-architecture-in-paris-1918-1940",
+                    "activityType": {
+                        "title": "Talk",
+                        "slug": "talk"
+                    },
+                    "image": {
+                        "ratio": 0.6666666666666666,
+                        "placeholder": "http://powerstationofart.com/img/modern-architecture-in-paris.jpg_placeholder.jpg",
+                        "srcs": [
+                            {
+                                "width": 200,
+                                "height": 133,
+                                "url": "http://powerstationofart.com/img/modern-architecture-in-paris.jpg_200.jpg"
+                            },
+                            {
+                                "width": 400,
+                                "height": 266,
+                                "url": "http://powerstationofart.com/img/modern-architecture-in-paris.jpg_400.jpg"
+                            },
+                            {
+                                "width": 800,
+                                "height": 533,
+                                "url": "http://powerstationofart.com/img/modern-architecture-in-paris.jpg_800.jpg"
+                            },
+                            {
+                                "width": 1200,
+                                "height": 800,
+                                "url": "http://powerstationofart.com/img/modern-architecture-in-paris.jpg_1200.jpg"
+                            },
+                            {
+                                "width": 1600,
+                                "height": 1066,
+                                "url": "http://powerstationofart.com/img/modern-architecture-in-paris.jpg_1600.jpg"
+                            }
+                        ]
+                    },
+                    "date": "2018-11-13T20:20:39+00:00"
+                },
+                {
+                    "title": "The Searching Souls: Transcending the Tides of Avant-garde",
+                    "slug": "the-searching-souls-transcending-the-tides-of-avant-garde",
+                    "activityType": {
+                        "title": "Forum",
+                        "slug": "forum"
+                    },
+                    "image": {
+                        "ratio": 0.6666666666666666,
+                        "placeholder": "http://powerstationofart.com/img/searching-souls.jpg_placeholder.jpg",
+                        "srcs": [
+                            {
+                                "width": 200,
+                                "height": 133,
+                                "url": "http://powerstationofart.com/img/searching-souls.jpg_200.jpg"
+                            },
+                            {
+                                "width": 400,
+                                "height": 266,
+                                "url": "http://powerstationofart.com/img/searching-souls.jpg_400.jpg"
+                            },
+                            {
+                                "width": 800,
+                                "height": 533,
+                                "url": "http://powerstationofart.com/img/searching-souls.jpg_800.jpg"
+                            },
+                            {
+                                "width": 1200,
+                                "height": 800,
+                                "url": "http://powerstationofart.com/img/searching-souls.jpg_1200.jpg"
+                            },
+                            {
+                                "width": 1600,
+                                "height": 1066,
+                                "url": "http://powerstationofart.com/img/searching-souls.jpg_1600.jpg"
+                            }
+                        ]
+                    },
+                    "date": "2018-11-13T20:20:39+00:00"
+                }
+            ]
+        },
+        {
+            "type": "products",
+            "title": "Related Products",
+            "products": [
+                {
+                    "title": "On the stream: Catalogue (special edition)",
+                    "slug": "on-the-stream-catalogue-special-edition",
+                    "image": {
+                        "ratio": 0.6666666666666666,
+                        "placeholder": "http://powerstationofart.com/img/on-the-stream-caalogue.jpg_placeholder.jpg",
+                        "srcs": [
+                            {
+                                "width": 200,
+                                "height": 133,
+                                "url": "http://powerstationofart.com/img/on-the-stream-caalogue.jpg_200.jpg"
+                            },
+                            {
+                                "width": 400,
+                                "height": 266,
+                                "url": "http://powerstationofart.com/img/on-the-stream-caalogue.jpg_400.jpg"
+                            },
+                            {
+                                "width": 800,
+                                "height": 533,
+                                "url": "http://powerstationofart.com/img/on-the-stream-caalogue.jpg_800.jpg"
+                            },
+                            {
+                                "width": 1200,
+                                "height": 800,
+                                "url": "http://powerstationofart.com/img/on-the-stream-caalogue.jpg_1200.jpg"
+                            },
+                            {
+                                "width": 1600,
+                                "height": 1066,
+                                "url": "http://powerstationofart.com/img/on-the-stream-caalogue.jpg_1600.jpg"
+                            }
+                        ]
+                    },
+                    "productType": {
+                        "title": "Publication",
+                        "slug": "publication"
+                    },
+                    "price": 258
+                }
+            ]
+        },
+        {
+            "type": "news",
+            "title": "Related News",
+            "news": [
+                {
+                    "title": "2019 Qing Ming Festival Open Hours",
+                    "slug": "2019-qing-ming-festival-open-hours",
+                    "newsType": {
+                        "title": "Notice",
+                        "slug": "notice"
+                    },
+                    "date": "2018-11-13T20:20:39+00:00"
+                },
+                {
+                    "title": "PSA 5F Deck Temporarily Closed",
+                    "slug": "psa-5f-deck-temporarily-closed",
+                    "newsType": {
+                        "title": "Notice",
+                        "slug": "notice"
+                    },
+                    "date": "2018-11-13T20:20:39+00:00"
+                }
+            ]
+        }
+    ]
+}

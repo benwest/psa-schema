@@ -1,0 +1,47 @@
+{
+    "title": "Theme",
+    "slug": "theme",
+    "type": "blocks",
+    "blocks": [
+        {
+            "type": "image",
+            "size": "large",
+            "image": {
+                "ratio": 0.6666666666666666,
+                "placeholder": "http://powerstationofart.com/img/shb-header_placeholder.jpg",
+                "srcs": [
+                    {
+                        "width": 200,
+                        "height": 133,
+                        "url": "http://powerstationofart.com/img/shb-header_200.jpg"
+                    },
+                    {
+                        "width": 400,
+                        "height": 266,
+                        "url": "http://powerstationofart.com/img/shb-header_400.jpg"
+                    },
+                    {
+                        "width": 800,
+                        "height": 533,
+                        "url": "http://powerstationofart.com/img/shb-header_800.jpg"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 800,
+                        "url": "http://powerstationofart.com/img/shb-header_1200.jpg"
+                    },
+                    {
+                        "width": 1600,
+                        "height": 1066,
+                        "url": "http://powerstationofart.com/img/shb-header_1600.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "text",
+            "title": "Theme",
+            "body": "Among the many language discoveries that emerged from E. E. Cummings’ experiment in poetry, is a word made of the condensation of progress and regress: Proregress. Introduced in the XIXth section of W ViVa (1931), this term may illuminate much about the contemporary conditions of history and time."
+        }
+    ]
+}

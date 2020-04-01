@@ -1,0 +1,26 @@
+{
+    "title": "Shanghai Bienniale",
+    "slug": "shanghai-bienialle",
+    "colors": {
+        "background": "#14E42E",
+        "text": "#000000"
+    },
+    "pages": [
+        {
+            "title": "Theme",
+            "slug": "theme"
+        },
+        {
+            "title": "Artists & Work",
+            "slug": "artists-and-work"
+        },
+        {
+            "title": "Events",
+            "slug": "events"
+        },
+        {
+            "title": "News",
+            "slug": "news"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "address": "Power Station of Art\n678 Miaojiang Road, Huangpu District, Shanghai, 200011",
+    "openingTimes": [
+        {
+            "day": "Monday",
+            "time": "Closed"
+        },
+        {
+            "day": "Tuesday",
+            "time": "11:00 – 19:00"
+        },
+        {
+            "day": "Wednesday",
+            "time": "11:00 – 19:00"
+        },
+        {
+            "day": "Thursday",
+            "time": "11:00 – 19:00"
+        },
+        {
+            "day": "Friday",
+            "time": "11:00 – 19:00"
+        },
+        {
+            "day": "Saturday",
+            "time": "11:00 – 19:00"
+        },
+        {
+            "day": "Sunday",
+            "time": "11:00 – 19:00"
+        }
+    ],
+    "details": [
+        {
+            "label": "Holidays",
+            "value": "Open"
+        },
+        {
+            "label": "Last admission",
+            "value": "18:00"
+        }
+    ],
+    "buyTickets": {
+        "label": "Buy Tickets",
+        "url": "http://wechat.cn/psa"
+    },
+    "map": {
+        "ratio": 0.6666666666666666,
+        "placeholder": "http://powerstationofart.com/img/psa-map.jpg_placeholder.jpg",
+        "srcs": [
+            {
+                "width": 200,
+                "height": 133,
+                "url": "http://powerstationofart.com/img/psa-map.jpg_200.jpg"
+            },
+            {
+                "width": 400,
+                "height": 266,
+                "url": "http://powerstationofart.com/img/psa-map.jpg_400.jpg"
+            },
+            {
+                "width": 800,
+                "height": 533,
+                "url": "http://powerstationofart.com/img/psa-map.jpg_800.jpg"
+            },
+            {
+                "width": 1200,
+                "height": 800,
+                "url": "http://powerstationofart.com/img/psa-map.jpg_1200.jpg"
+            },
+            {
+                "width": 1600,
+                "height": 1066,
+                "url": "http://powerstationofart.com/img/psa-map.jpg_1600.jpg"
+            }
+        ]
+    },
+    "mapUrl": "https://goo.gl/maps/AoRxXJK5C9hnkHWw5",
+    "blocks": [
+        {
+            "type": "text",
+            "title": "Discount Policies",
+            "body": "<h3>Students and Teachers</h3><p>Students (excluding part-time students) who are registered in mainland China holding student ID or ISIC international student ID, and teachers holding teacher ID are eligible for 50% off of the original ticket price.</p><h3>Groups</h3><p>Groups of 20 or more are eligible for 60% off the original ticket price.</p><h3>Free Visit Policies</h3><p>Active military officers, retired cadres, families of martyrs, disabilities, guided tour, people over 60 years old, members of the Chinese Artists Association, members of the Shanghai Artists Association, and elementary and preschool children accompanied by adults. (One adult with two children)</p><h3>International Council of Museums (ICOM)</h3><p>Members of the International Museum Association can visit for free with valid ICOM documents.</p><h3>Weekly Free Day</h3><p>Every Tuesday is free entry for all visitors.</p>"
+        }
+    ]
+}

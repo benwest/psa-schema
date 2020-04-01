@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema",
-    "$id": "psa/activity.json",
-    "description": "Activity in What's On",
+    "$id": "psa/news-item.json",
+    "description": "News post in What's On",
     "type": "object",
     "properties": {
         "slug": {
@@ -10,25 +10,15 @@
         "title": {
             "type": "string"
         },
-        "activityType": {
+        "newsType": {
             "$ref": "definitions/tag.json"
         },
         "tags": {
             "$ref": "definitions/tags.json"
         },
-        "startDate": {
+        "date": {
             "type": "string",
             "format": "date-time"
-        },
-        "endDate": {
-            "type": "string",
-            "format": "date-time"
-        },
-        "details": {
-            "$ref": "definitions/details.json"
-        },
-        "image": {
-            "$ref": "definitions/image.json"
         },
         "blocks": {
             "$ref": "definitions/blocks.json"
@@ -37,12 +27,9 @@
     "required": [
         "slug",
         "title",
-        "image",
-        "activityType",
+        "newsType",
         "tags",
-        "startDate",
-        "endDate",
-        "details",
+        "date",
         "blocks"
     ],
     "additionalProperties": false

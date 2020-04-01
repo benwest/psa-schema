@@ -1,0 +1,71 @@
+{
+    "activityTypes": [
+        {
+            "title": "Talk",
+            "slug": "talk"
+        },
+        {
+            "title": "Workshop",
+            "slug": "workshop"
+        }
+    ],
+    "newsTypes": [
+        {
+            "title": "News",
+            "slug": "news"
+        },
+        {
+            "title": "Announcement",
+            "slug": "announcement"
+        }
+    ],
+    "tags": [
+        {
+            "title": "Architecture",
+            "slug": "architecture"
+        },
+        {
+            "title": "Design",
+            "slug": "design"
+        },
+        {
+            "title": "Photography",
+            "slug": "photography"
+        },
+        {
+            "title": "Visual Arts",
+            "slug": "visual-arts"
+        }
+    ],
+    "programs": [
+        {
+            "title": "Architecture Series",
+            "slug": "architexture-series"
+        },
+        {
+            "title": "power station of DESIGN",
+            "slug": "power-station-of-design"
+        },
+        {
+            "title": "Shanghai Bienialle",
+            "slug": "shanghai-bienialle"
+        },
+        {
+            "title": "Architecture Series",
+            "slug": "architexture-series"
+        }
+    ],
+    "membership": {
+        "label": "Become a Memeber",
+        "url": "http://powerstationofart.com/membership"
+    },
+    "announcement": {
+        "title": "PSA 5F Deck Temporarily Closed",
+        "slug": "psa-5f-deck-temporarily-closed",
+        "newsType": {
+            "title": "Notice",
+            "slug": "notice"
+        },
+        "date": "2018-11-13T20:20:39+00:00"
+    }
+}

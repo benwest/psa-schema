@@ -1,0 +1,50 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/visit-and-tickets.json",
+    "type": "object",
+    "properties": {
+        "address": {
+            "type": "string"
+        },
+        "openingTimes": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "day": {
+                        "type": "string"
+                    },
+                    "time": {
+                        "type": "string"
+                    }
+                },
+                "required": [
+                    "day",
+                    "time"
+                ],
+                "additionalProperties": false
+            }
+        },
+        "details": {
+            "$ref": "definitions/details.json"
+        },
+        "buyTickets": {
+            "$ref": "definitions/link.json"
+        },
+        "map": {
+            "$ref": "definitions/image.json"
+        },
+        "mapUrl": {
+            "type": "string",
+            "format": "uri"
+        },
+        "blocks": {
+            "$ref": "definitions/blocks.json"
+        }
+    },
+    "required": [
+        "address",
+        "blocks"
+    ],
+    "additionalProperties": false
+}

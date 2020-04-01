@@ -1,0 +1,170 @@
+{
+    "slug": "archives-translations-and-protocols",
+    "title": "Archives, Translations and Protocols",
+    "startDate": "2018-11-13T20:20:39+00:00",
+    "endDate": "2018-11-13T20:20:39+00:00",
+    "activityType": {
+        "title": "Talk",
+        "slug": "Talk"
+    },
+    "tags": [],
+    "details": [
+        {
+            "label": "Venue",
+            "value": "3F, Theatre"
+        },
+        {
+            "label": "Language",
+            "value": "English (Chinese Interpretation)"
+        },
+        {
+            "label": "Admission",
+            "value": "Free"
+        },
+        {
+            "label": "Notice",
+            "value": "Please arrive 15 minutes before the start. "
+        }
+    ],
+    "image": {
+        "ratio": 0.6666666666666666,
+        "placeholder": "http://powerstationofart.com/img/archives-translations-protocols.jpg_placeholder.jpg",
+        "srcs": [
+            {
+                "width": 200,
+                "height": 133,
+                "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_200.jpg"
+            },
+            {
+                "width": 400,
+                "height": 266,
+                "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_400.jpg"
+            },
+            {
+                "width": 800,
+                "height": 533,
+                "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_800.jpg"
+            },
+            {
+                "width": 1200,
+                "height": 800,
+                "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_1200.jpg"
+            },
+            {
+                "width": 1600,
+                "height": 1066,
+                "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_1600.jpg"
+            }
+        ]
+    },
+    "blocks": [
+        {
+            "type": "text",
+            "body": "<p>For me an archive is a working device”, Muntadas says. “Sometimes I create my own archive by myself, sometimes I just access pre-existing files. For each project, especially long-term projects, I produce a jumble of documentation based on the collection process which is what I consider to be my own archive. In my case, the limits between personal archives and research are confusing. Archives generate the sources to then create a work. That is why I cannot conceive of the archive if it is not activated”.</p><p>Antoni Muntadas is a pioneer in incorporating the archive as the basis of contemporary artistic discourse. While an engagement with the archive is often a catalyst for his research, the particular approach varies depending on the specific nature of each project. In this lecture the artist will discuss a selection of his works that involve very different ways of activating the archive: The File Room, a disturbing installation based on an active online archive documenting acts of censorship in the arts; On Translation, a series of interventions that explores a range of issues related to the idea of translation, establishing an interpretative framework that enables the artist to question cultural, ideological and economic situations that challenge analysis and comprehension; The Construction of Fear, a corpus of works that analyses the use of “fear” in the mass media and the emerging and thriving industry associated with self-defence; and finally, Asian Protocols, the latest research project undertaken by Muntadas with the goal of delving into the cultural idiosyncrasies of China, Japan and Korea, by analysing their social, political and economic systems, and reflecting on the geopolitical fragility of the East Asian region.</p>"
+        },
+        {
+            "type": "text",
+            "title": "About the Lecturer",
+            "body": "<p><strong>Antoni Muntadas</strong> (born Barcelona, 1942), has lived and worked in the United States since 1971. Working across disciplines, in his artistic practice he analyses social institutions by reflecting upon the mechanisms of power that sustain them and the influence they exert on the creation of the collective imagination. Muntadas is interested in issues relating to censorship, the mass media, the public and private spheres, and the role of art as a contemporary phenomenon. His projects have been presented in diverse media, spanning photography, video, net-based work, publications and urban interventions. His multimedia works and installations investigate how in present times information channels are used to promote or censor ideas.</p>"
+        },
+        {
+            "type": "gallery",
+            "title": "Event Photos",
+            "images": [
+                {
+                    "ratio": 0.6666666666666666,
+                    "placeholder": "http://powerstationofart.com/img/archives-1.jpg_placeholder.jpg",
+                    "srcs": [
+                        {
+                            "width": 200,
+                            "height": 133,
+                            "url": "http://powerstationofart.com/img/archives-1.jpg_200.jpg"
+                        },
+                        {
+                            "width": 400,
+                            "height": 266,
+                            "url": "http://powerstationofart.com/img/archives-1.jpg_400.jpg"
+                        },
+                        {
+                            "width": 800,
+                            "height": 533,
+                            "url": "http://powerstationofart.com/img/archives-1.jpg_800.jpg"
+                        },
+                        {
+                            "width": 1200,
+                            "height": 800,
+                            "url": "http://powerstationofart.com/img/archives-1.jpg_1200.jpg"
+                        },
+                        {
+                            "width": 1600,
+                            "height": 1066,
+                            "url": "http://powerstationofart.com/img/archives-1.jpg_1600.jpg"
+                        }
+                    ]
+                },
+                {
+                    "ratio": 0.6666666666666666,
+                    "placeholder": "http://powerstationofart.com/img/archives-2.jpg_placeholder.jpg",
+                    "srcs": [
+                        {
+                            "width": 200,
+                            "height": 133,
+                            "url": "http://powerstationofart.com/img/archives-2.jpg_200.jpg"
+                        },
+                        {
+                            "width": 400,
+                            "height": 266,
+                            "url": "http://powerstationofart.com/img/archives-2.jpg_400.jpg"
+                        },
+                        {
+                            "width": 800,
+                            "height": 533,
+                            "url": "http://powerstationofart.com/img/archives-2.jpg_800.jpg"
+                        },
+                        {
+                            "width": 1200,
+                            "height": 800,
+                            "url": "http://powerstationofart.com/img/archives-2.jpg_1200.jpg"
+                        },
+                        {
+                            "width": 1600,
+                            "height": 1066,
+                            "url": "http://powerstationofart.com/img/archives-2.jpg_1600.jpg"
+                        }
+                    ]
+                },
+                {
+                    "ratio": 0.6666666666666666,
+                    "placeholder": "http://powerstationofart.com/img/archives-3.jpg_placeholder.jpg",
+                    "srcs": [
+                        {
+                            "width": 200,
+                            "height": 133,
+                            "url": "http://powerstationofart.com/img/archives-3.jpg_200.jpg"
+                        },
+                        {
+                            "width": 400,
+                            "height": 266,
+                            "url": "http://powerstationofart.com/img/archives-3.jpg_400.jpg"
+                        },
+                        {
+                            "width": 800,
+                            "height": 533,
+                            "url": "http://powerstationofart.com/img/archives-3.jpg_800.jpg"
+                        },
+                        {
+                            "width": 1200,
+                            "height": 800,
+                            "url": "http://powerstationofart.com/img/archives-3.jpg_1200.jpg"
+                        },
+                        {
+                            "width": 1600,
+                            "height": 1066,
+                            "url": "http://powerstationofart.com/img/archives-3.jpg_1600.jpg"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -4,21 +4,52 @@
     "description": "Product in A Power Store",
     "type": "object",
     "properties": {
-        "slug": { "$ref": "definitions/slug.json" },
-        "title": { "type": "string" },
+        "slug": {
+            "$ref": "definitions/slug.json"
+        },
+        "title": {
+            "type": "string"
+        },
+        "productType": {
+            "$ref": "definitions/tag.json"
+        },
+        "tags": {
+            "$ref": "definitions/tags.json"
+        },
+        "price": {
+            "type": "number"
+        },
+        "buy": {
+            "$ref": "definitions/link.json"
+        },
         "images": {
-          "type": "array",
-          "minItems": 1,
-          "items": { "$ref": "definitions/image.json" }
+            "type": "array",
+            "items": {
+                "$ref": "definitions/image.json"
+            }
         },
         "publicationPages": {
-          "type": "array",
-          "minItems": 1,
-          "items": { "$ref": "definitions/image.json" }
+            "type": "array",
+            "items": {
+                "$ref": "definitions/image.json"
+            }
         },
-        "details": { "$ref": "definitions/details.json" },
-        "blocks": { "$ref": "definitions/blocks.json" }
+        "details": {
+            "$ref": "definitions/details.json"
+        },
+        "blocks": {
+            "$ref": "definitions/blocks.json"
+        }
     },
-    "required": [ "slug", "title", "images", "details", "blocks" ],
+    "required": [
+        "slug",
+        "title",
+        "productType",
+        "tags",
+        "images",
+        "publicationPages",
+        "details",
+        "blocks"
+    ],
     "additionalProperties": false
-  }
+}

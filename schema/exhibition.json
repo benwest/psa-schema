@@ -4,15 +4,52 @@
     "description": "Exhibition in What's On",
     "type": "object",
     "properties": {
-        "slug": { "$ref": "definitions/slug.json" },
-        "title": { "type": "string" },
-        "poster": { "$ref": "definitions/image.json" },
-        "image": { "$ref": "definitions/image.json" },
-        "startDate": { "type": "string", "format": "date" },
-        "endDate": { "type": "string", "format": "date" },
-        "details": { "$ref": "definitions/details.json" },
-        "blocks": { "$ref": "definitions/blocks.json" }
+        "slug": {
+            "$ref": "definitions/slug.json"
+        },
+        "title": {
+            "type": "string"
+        },
+        "tags": {
+            "$ref": "definitions/tags.json"
+        },
+        "colors": {
+            "$ref": "definitions/color-scheme.json"
+        },
+        "poster": {
+            "$ref": "definitions/image.json"
+        },
+        "image": {
+            "$ref": "definitions/image.json"
+        },
+        "startDate": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "endDate": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "buyTicket": {
+            "$ref": "definitions/link.json"
+        },
+        "details": {
+            "$ref": "definitions/details.json"
+        },
+        "blocks": {
+            "$ref": "definitions/blocks.json"
+        }
     },
-    "required": [ "slug", "title", "poster", "image", "startDate", "endDate", "details", "blocks" ],
+    "required": [
+        "slug",
+        "title",
+        "tags",
+        "poster",
+        "image",
+        "startDate",
+        "endDate",
+        "details",
+        "blocks"
+    ],
     "additionalProperties": false
-  }
+}

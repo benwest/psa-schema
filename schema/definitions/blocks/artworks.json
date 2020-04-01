@@ -1,22 +1,25 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema",
-    "$id": "psa/definitions/blocks/gallery.json",
+    "$id": "psa/definitions/blocks/artworks.json",
     "type": "object",
     "required": [
-        "images"
+        "type",
+        "title",
+        "artworks"
     ],
+    "additionalProperties": false,
     "properties": {
         "type": {
-            "const": "gallery"
+            "const": "artworks"
         },
         "title": {
             "type": "string"
         },
-        "images": {
+        "artworks": {
             "type": "array",
             "minItems": 1,
             "items": {
-                "$ref": "../image.json"
+                "$ref": "../artwork-thumbnail.json"
             }
         }
     }

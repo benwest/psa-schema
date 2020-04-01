@@ -1,0 +1,31 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/definitions/activity-thumbnail.json",
+    "type": "object",
+    "required": [
+        "title",
+        "slug",
+        "activityType",
+        "image",
+        "date"
+    ],
+    "additionalProperties": false,
+    "properties": {
+        "title": {
+            "type": "string"
+        },
+        "slug": {
+            "$ref": "./slug.json"
+        },
+        "activityType": {
+            "$ref": "./tag.json"
+        },
+        "image": {
+            "$ref": "./image.json"
+        },
+        "date": {
+            "type": "string",
+            "format": "date-time"
+        }
+    }
+}

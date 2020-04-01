@@ -1,0 +1,167 @@
+{
+    "items": [
+        {
+            "title": "The Historical Backlash of Lee Ufan",
+            "slug": "the-historical-backlash-of-lee-ufan",
+            "activityType": {
+                "title": "Talk",
+                "slug": "talk"
+            },
+            "image": {
+                "ratio": 0.6666666666666666,
+                "placeholder": "http://powerstationofart.com/img/lee-ufan.jpg_placeholder.jpg",
+                "srcs": [
+                    {
+                        "width": 200,
+                        "height": 133,
+                        "url": "http://powerstationofart.com/img/lee-ufan.jpg_200.jpg"
+                    },
+                    {
+                        "width": 400,
+                        "height": 266,
+                        "url": "http://powerstationofart.com/img/lee-ufan.jpg_400.jpg"
+                    },
+                    {
+                        "width": 800,
+                        "height": 533,
+                        "url": "http://powerstationofart.com/img/lee-ufan.jpg_800.jpg"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 800,
+                        "url": "http://powerstationofart.com/img/lee-ufan.jpg_1200.jpg"
+                    },
+                    {
+                        "width": 1600,
+                        "height": 1066,
+                        "url": "http://powerstationofart.com/img/lee-ufan.jpg_1600.jpg"
+                    }
+                ]
+            },
+            "date": "2018-11-13T20:20:39+00:00"
+        },
+        {
+            "title": "Archives, Translations and Protocols",
+            "slug": "archives-translations-and-protocols",
+            "activityType": {
+                "title": "Talk",
+                "slug": "talk"
+            },
+            "image": {
+                "ratio": 0.6666666666666666,
+                "placeholder": "http://powerstationofart.com/img/archives-translations-protocols.jpg_placeholder.jpg",
+                "srcs": [
+                    {
+                        "width": 200,
+                        "height": 133,
+                        "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_200.jpg"
+                    },
+                    {
+                        "width": 400,
+                        "height": 266,
+                        "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_400.jpg"
+                    },
+                    {
+                        "width": 800,
+                        "height": 533,
+                        "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_800.jpg"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 800,
+                        "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_1200.jpg"
+                    },
+                    {
+                        "width": 1600,
+                        "height": 1066,
+                        "url": "http://powerstationofart.com/img/archives-translations-protocols.jpg_1600.jpg"
+                    }
+                ]
+            },
+            "date": "2018-11-13T20:20:39+00:00"
+        },
+        {
+            "title": "Modern Architecture in Paris, 1918-1940",
+            "slug": "modern-architecture-in-paris-1918-1940",
+            "activityType": {
+                "title": "Talk",
+                "slug": "talk"
+            },
+            "image": {
+                "ratio": 0.6666666666666666,
+                "placeholder": "http://powerstationofart.com/img/modern-architecture-in-paris.jpg_placeholder.jpg",
+                "srcs": [
+                    {
+                        "width": 200,
+                        "height": 133,
+                        "url": "http://powerstationofart.com/img/modern-architecture-in-paris.jpg_200.jpg"
+                    },
+                    {
+                        "width": 400,
+                        "height": 266,
+                        "url": "http://powerstationofart.com/img/modern-architecture-in-paris.jpg_400.jpg"
+                    },
+                    {
+                        "width": 800,
+                        "height": 533,
+                        "url": "http://powerstationofart.com/img/modern-architecture-in-paris.jpg_800.jpg"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 800,
+                        "url": "http://powerstationofart.com/img/modern-architecture-in-paris.jpg_1200.jpg"
+                    },
+                    {
+                        "width": 1600,
+                        "height": 1066,
+                        "url": "http://powerstationofart.com/img/modern-architecture-in-paris.jpg_1600.jpg"
+                    }
+                ]
+            },
+            "date": "2018-11-13T20:20:39+00:00"
+        },
+        {
+            "title": "The Searching Souls: Transcending the Tides of Avant-garde",
+            "slug": "the-searching-souls-transcending-the-tides-of-avant-garde",
+            "activityType": {
+                "title": "Forum",
+                "slug": "forum"
+            },
+            "image": {
+                "ratio": 0.6666666666666666,
+                "placeholder": "http://powerstationofart.com/img/searching-souls.jpg_placeholder.jpg",
+                "srcs": [
+                    {
+                        "width": 200,
+                        "height": 133,
+                        "url": "http://powerstationofart.com/img/searching-souls.jpg_200.jpg"
+                    },
+                    {
+                        "width": 400,
+                        "height": 266,
+                        "url": "http://powerstationofart.com/img/searching-souls.jpg_400.jpg"
+                    },
+                    {
+                        "width": 800,
+                        "height": 533,
+                        "url": "http://powerstationofart.com/img/searching-souls.jpg_800.jpg"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 800,
+                        "url": "http://powerstationofart.com/img/searching-souls.jpg_1200.jpg"
+                    },
+                    {
+                        "width": 1600,
+                        "height": 1066,
+                        "url": "http://powerstationofart.com/img/searching-souls.jpg_1600.jpg"
+                    }
+                ]
+            },
+            "date": "2018-11-13T20:20:39+00:00"
+        }
+    ],
+    "info": {
+        "count": 52
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/news.json",
+    "type": "object",
+    "properties": {
+        "items": {
+            "type": "array",
+            "items": {
+                "$ref": "definitions/news-thumbnail.json"
+            }
+        },
+        "info": {
+            "$ref": "definitions/pagination.json"
+        }
+    },
+    "required": [
+        "items",
+        "info"
+    ],
+    "additionalProperties": false
+}

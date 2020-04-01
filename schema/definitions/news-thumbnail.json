@@ -1,0 +1,27 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/definitions/news-thumbnail.json",
+    "type": "object",
+    "required": [
+        "title",
+        "slug",
+        "newsType",
+        "date"
+    ],
+    "additionalProperties": false,
+    "properties": {
+        "title": {
+            "type": "string"
+        },
+        "slug": {
+            "$ref": "./slug.json"
+        },
+        "newsType": {
+            "$ref": "./tag.json"
+        },
+        "date": {
+            "type": "string",
+            "format": "date-time"
+        }
+    }
+}

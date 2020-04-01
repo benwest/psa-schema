@@ -1,0 +1,155 @@
+{
+    "items": [
+        {
+            "title": "Passing Through Architecture: The 10 Years of Gordon Matta-Clark",
+            "slug": "passing-through-architecture-the-10-years-of-gordon-matta-clark",
+            "image": {
+                "ratio": 1.41,
+                "placeholder": "http://powerstationofart.com/img/passing-through-architecture-poster.jpg_placeholder.jpg",
+                "srcs": [
+                    {
+                        "width": 200,
+                        "height": 133,
+                        "url": "http://powerstationofart.com/img/passing-through-architecture-poster.jpg_200.jpg"
+                    },
+                    {
+                        "width": 400,
+                        "height": 266,
+                        "url": "http://powerstationofart.com/img/passing-through-architecture-poster.jpg_400.jpg"
+                    },
+                    {
+                        "width": 800,
+                        "height": 533,
+                        "url": "http://powerstationofart.com/img/passing-through-architecture-poster.jpg_800.jpg"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 800,
+                        "url": "http://powerstationofart.com/img/passing-through-architecture-poster.jpg_1200.jpg"
+                    },
+                    {
+                        "width": 1600,
+                        "height": 1066,
+                        "url": "http://powerstationofart.com/img/passing-through-architecture-poster.jpg_1600.jpg"
+                    }
+                ]
+            },
+            "startDate": "2018-11-13T20:20:39+00:00",
+            "endDate": "2018-11-13T20:20:39+00:00"
+        },
+        {
+            "title": "Emerging Curators Project 2019",
+            "slug": "emerging-curators-project-2019",
+            "image": {
+                "ratio": 1.41,
+                "placeholder": "http://powerstationofart.com/img/ecp-poster.jpg_placeholder.jpg",
+                "srcs": [
+                    {
+                        "width": 200,
+                        "height": 133,
+                        "url": "http://powerstationofart.com/img/ecp-poster.jpg_200.jpg"
+                    },
+                    {
+                        "width": 400,
+                        "height": 266,
+                        "url": "http://powerstationofart.com/img/ecp-poster.jpg_400.jpg"
+                    },
+                    {
+                        "width": 800,
+                        "height": 533,
+                        "url": "http://powerstationofart.com/img/ecp-poster.jpg_800.jpg"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 800,
+                        "url": "http://powerstationofart.com/img/ecp-poster.jpg_1200.jpg"
+                    },
+                    {
+                        "width": 1600,
+                        "height": 1066,
+                        "url": "http://powerstationofart.com/img/ecp-poster.jpg_1600.jpg"
+                    }
+                ]
+            },
+            "startDate": "2018-11-13T20:20:39+00:00",
+            "endDate": "2018-11-13T20:20:39+00:00"
+        },
+        {
+            "title": "Jean Nouvel, in my head, in my eye…belonging…",
+            "slug": "jean-nouvel-in-my-head-in-my-eye-belonging",
+            "image": {
+                "ratio": 1.41,
+                "placeholder": "http://powerstationofart.com/img/jean-nouvel-poster.jpg_placeholder.jpg",
+                "srcs": [
+                    {
+                        "width": 200,
+                        "height": 133,
+                        "url": "http://powerstationofart.com/img/jean-nouvel-poster.jpg_200.jpg"
+                    },
+                    {
+                        "width": 400,
+                        "height": 266,
+                        "url": "http://powerstationofart.com/img/jean-nouvel-poster.jpg_400.jpg"
+                    },
+                    {
+                        "width": 800,
+                        "height": 533,
+                        "url": "http://powerstationofart.com/img/jean-nouvel-poster.jpg_800.jpg"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 800,
+                        "url": "http://powerstationofart.com/img/jean-nouvel-poster.jpg_1200.jpg"
+                    },
+                    {
+                        "width": 1600,
+                        "height": 1066,
+                        "url": "http://powerstationofart.com/img/jean-nouvel-poster.jpg_1600.jpg"
+                    }
+                ]
+            },
+            "startDate": "2018-11-13T20:20:39+00:00",
+            "endDate": "2018-11-13T20:20:39+00:00"
+        },
+        {
+            "title": "The Return of Guests: Selections from the PSA Collection",
+            "slug": "the-return-of-guests-selections-from-the-psa-collection",
+            "image": {
+                "ratio": 1.41,
+                "placeholder": "http://powerstationofart.com/img/return-of-guests-poster.jpg_placeholder.jpg",
+                "srcs": [
+                    {
+                        "width": 200,
+                        "height": 133,
+                        "url": "http://powerstationofart.com/img/return-of-guests-poster.jpg_200.jpg"
+                    },
+                    {
+                        "width": 400,
+                        "height": 266,
+                        "url": "http://powerstationofart.com/img/return-of-guests-poster.jpg_400.jpg"
+                    },
+                    {
+                        "width": 800,
+                        "height": 533,
+                        "url": "http://powerstationofart.com/img/return-of-guests-poster.jpg_800.jpg"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 800,
+                        "url": "http://powerstationofart.com/img/return-of-guests-poster.jpg_1200.jpg"
+                    },
+                    {
+                        "width": 1600,
+                        "height": 1066,
+                        "url": "http://powerstationofart.com/img/return-of-guests-poster.jpg_1600.jpg"
+                    }
+                ]
+            },
+            "startDate": "2018-11-13T20:20:39+00:00",
+            "endDate": "2018-11-13T20:20:39+00:00"
+        }
+    ],
+    "info": {
+        "count": 200
+    }
+}

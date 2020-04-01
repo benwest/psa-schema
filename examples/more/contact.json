@@ -1,0 +1,36 @@
+{
+    "title": "Contact",
+    "slug": "Contact",
+    "blocks": [
+        {
+            "type": "text",
+            "title": "Power Station of Art",
+            "body": "Address: 678 Miaojiang Road, Huangpu District, Shanghai 200011\nTelephone: 021-31108550"
+        },
+        {
+            "type": "text",
+            "title": "Shanghai Biennale",
+            "body": "Han Lu\nbiennale@powerstationofart.com"
+        },
+        {
+            "type": "text",
+            "title": "Emerging Curators Project",
+            "body": "ECP Team (Xu Chenfei)\necp@powerstationofart.com"
+        },
+        {
+            "type": "text",
+            "title": "Eventup, Branding, Sponsor",
+            "body": "Liu Jie\nmarketing@powerstationofart.com"
+        },
+        {
+            "type": "text",
+            "title": "Power Station of DESIGN",
+            "body": "psd@powerstationofart.com"
+        },
+        {
+            "type": "text",
+            "title": "Education Department",
+            "body": "Zhang Lili, Li Weizhe\neducation@powerstationofart.com"
+        }
+    ]
+}

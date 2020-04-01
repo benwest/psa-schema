@@ -1,0 +1,29 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/a-power-store.json",
+    "type": "object",
+    "properties": {
+        "items": {
+            "type": "array",
+            "items": {
+                "$ref": "definitions/product-thumbnail.json"
+            }
+        },
+        "productTypes": {
+            "$ref": "definitions/tags.json"
+        },
+        "tags": {
+            "$ref": "definitions/tags.json"
+        },
+        "info": {
+            "$ref": "definitions/pagination.json"
+        }
+    },
+    "required": [
+        "items",
+        "productTypes",
+        "tags",
+        "info"
+    ],
+    "additionalProperties": false
+}

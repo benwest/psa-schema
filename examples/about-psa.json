@@ -1,0 +1,185 @@
+{
+    "image": {
+        "ratio": 0.6666666666666666,
+        "placeholder": "http://powerstationofart.com/img/psa.jpg_placeholder.jpg",
+        "srcs": [
+            {
+                "width": 200,
+                "height": 133,
+                "url": "http://powerstationofart.com/img/psa.jpg_200.jpg"
+            },
+            {
+                "width": 400,
+                "height": 266,
+                "url": "http://powerstationofart.com/img/psa.jpg_400.jpg"
+            },
+            {
+                "width": 800,
+                "height": 533,
+                "url": "http://powerstationofart.com/img/psa.jpg_800.jpg"
+            },
+            {
+                "width": 1200,
+                "height": 800,
+                "url": "http://powerstationofart.com/img/psa.jpg_1200.jpg"
+            },
+            {
+                "width": 1600,
+                "height": 1066,
+                "url": "http://powerstationofart.com/img/psa.jpg_1600.jpg"
+            }
+        ]
+    },
+    "blocks": [
+        {
+            "type": "text",
+            "title": "Power Station of Art",
+            "body": "<p>Established on Oct. 1st, 2012, the Power Station of Art (PSA) is the first state-run museum dedicated to contemporary art in mainland China. It is also home to the Shanghai Biennale.</p><p>Standing tall by Shanghai’s mother river, the Huangpu River, PSA now occupies an area of 42-thousand square meters. With an internal height of 27 meters, the museum now houses exhibition sections that add up to 15-thousand square meters, and its 165-meter chimney, being an independent exhibition space, has also become an integral part of Shanghai’s world-famous skyline.</p><p>Renovated from the former Nanshi Power Plant, PSA was once the Pavilion of Future during the 2010 Shanghai World Expo. The museum has not only witnessed the city’s vast changes from the industry age to the IT era, but also provided a rich source of inspirations for artists with its simple yet straightforward architectural styles.</p><p>And as Shanghai’s generator for its new urban culture, PSA regards non-stopping innovation and progress as the key to its long-term vitality. The museum has been striving to provide an open platform for the public to learn and appreciate contemporary art, break the barrier between life and art, and promote cooperation and knowledge generation between different schools of art and culture.</p>"
+        },
+        {
+            "type": "image",
+            "size": "medium",
+            "image": {
+                "ratio": 0.6666666666666666,
+                "placeholder": "http://powerstationofart.com/img/psa-outside.jpg_placeholder.jpg",
+                "srcs": [
+                    {
+                        "width": 200,
+                        "height": 133,
+                        "url": "http://powerstationofart.com/img/psa-outside.jpg_200.jpg"
+                    },
+                    {
+                        "width": 400,
+                        "height": 266,
+                        "url": "http://powerstationofart.com/img/psa-outside.jpg_400.jpg"
+                    },
+                    {
+                        "width": 800,
+                        "height": 533,
+                        "url": "http://powerstationofart.com/img/psa-outside.jpg_800.jpg"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 800,
+                        "url": "http://powerstationofart.com/img/psa-outside.jpg_1200.jpg"
+                    },
+                    {
+                        "width": 1600,
+                        "height": 1066,
+                        "url": "http://powerstationofart.com/img/psa-outside.jpg_1600.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "type": "image",
+            "size": "medium",
+            "image": {
+                "ratio": 0.6666666666666666,
+                "placeholder": "http://powerstationofart.com/img/psa-outside-2.jpg_placeholder.jpg",
+                "srcs": [
+                    {
+                        "width": 200,
+                        "height": 133,
+                        "url": "http://powerstationofart.com/img/psa-outside-2.jpg_200.jpg"
+                    },
+                    {
+                        "width": 400,
+                        "height": 266,
+                        "url": "http://powerstationofart.com/img/psa-outside-2.jpg_400.jpg"
+                    },
+                    {
+                        "width": 800,
+                        "height": 533,
+                        "url": "http://powerstationofart.com/img/psa-outside-2.jpg_800.jpg"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 800,
+                        "url": "http://powerstationofart.com/img/psa-outside-2.jpg_1200.jpg"
+                    },
+                    {
+                        "width": 1600,
+                        "height": 1066,
+                        "url": "http://powerstationofart.com/img/psa-outside-2.jpg_1600.jpg"
+                    }
+                ]
+            }
+        }
+    ],
+    "history": {
+        "title": "History",
+        "items": [
+            {
+                "title": "Nanshi Electric Plant (1897-1955)",
+                "body": "In 1897, the Nanshi Electric Plant lit the first light of Chinese people. In 1935, it relocated to Bansongyuan Road by the Huangpu River in the Nanshi area, where PSA is now.",
+                "image": {
+                    "ratio": 0.6666666666666666,
+                    "placeholder": "http://powerstationofart.com/img/nanshi-plant.jpg_placeholder.jpg",
+                    "srcs": [
+                        {
+                            "width": 200,
+                            "height": 133,
+                            "url": "http://powerstationofart.com/img/nanshi-plant.jpg_200.jpg"
+                        },
+                        {
+                            "width": 400,
+                            "height": 266,
+                            "url": "http://powerstationofart.com/img/nanshi-plant.jpg_400.jpg"
+                        },
+                        {
+                            "width": 800,
+                            "height": 533,
+                            "url": "http://powerstationofart.com/img/nanshi-plant.jpg_800.jpg"
+                        },
+                        {
+                            "width": 1200,
+                            "height": 800,
+                            "url": "http://powerstationofart.com/img/nanshi-plant.jpg_1200.jpg"
+                        },
+                        {
+                            "width": 1600,
+                            "height": 1066,
+                            "url": "http://powerstationofart.com/img/nanshi-plant.jpg_1600.jpg"
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Nanshi Power Plant (1955-2007)",
+                "body": "The body and the chiminey of the power plant were built in 1985. The Power Plant witnessed the rise of an industrious era, with more than 80 years of operation. ",
+                "image": {
+                    "ratio": 0.6666666666666666,
+                    "placeholder": "http://powerstationofart.com/img/nanshi-plant.jpg_placeholder.jpg",
+                    "srcs": [
+                        {
+                            "width": 200,
+                            "height": 133,
+                            "url": "http://powerstationofart.com/img/nanshi-plant.jpg_200.jpg"
+                        },
+                        {
+                            "width": 400,
+                            "height": 266,
+                            "url": "http://powerstationofart.com/img/nanshi-plant.jpg_400.jpg"
+                        },
+                        {
+                            "width": 800,
+                            "height": 533,
+                            "url": "http://powerstationofart.com/img/nanshi-plant.jpg_800.jpg"
+                        },
+                        {
+                            "width": 1200,
+                            "height": 800,
+                            "url": "http://powerstationofart.com/img/nanshi-plant.jpg_1200.jpg"
+                        },
+                        {
+                            "width": 1600,
+                            "height": 1066,
+                            "url": "http://powerstationofart.com/img/nanshi-plant.jpg_1600.jpg"
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

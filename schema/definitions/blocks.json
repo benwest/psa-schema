@@ -5,12 +5,42 @@
     "type": "array",
     "items": {
         "anyOf": [
-            { "$ref": "blocks/text.json" },
-            { "$ref": "blocks/bio.json" },
-            { "$ref": "blocks/image.json" },
-            { "$ref": "blocks/carousel.json" },
-            { "$ref": "blocks/gallery.json" },
-            { "$ref": "blocks/video.json" }
+            {
+                "$ref": "blocks/text.json"
+            },
+            {
+                "$ref": "blocks/bio.json"
+            },
+            {
+                "$ref": "blocks/image.json"
+            },
+            {
+                "$ref": "blocks/carousel.json"
+            },
+            {
+                "$ref": "blocks/gallery.json"
+            },
+            {
+                "$ref": "blocks/video.json"
+            },
+            {
+                "$ref": "blocks/embed.json"
+            },
+            {
+                "$ref": "blocks/exhibitions.json"
+            },
+            {
+                "$ref": "blocks/activities.json"
+            },
+            {
+                "$ref": "blocks/news.json"
+            },
+            {
+                "$ref": "blocks/products.json"
+            },
+            {
+                "$ref": "blocks/artworks.json"
+            }
         ]
     }
 }

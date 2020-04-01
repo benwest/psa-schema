@@ -7,5 +7,5 @@ const url = size => `${root}${name}_${size}.jpg`;
 process.stdout.write(JSON.stringify({
     ratio,
     placeholder: url('placeholder'),
-    srcset: widths.map(width => ({ width, height: Math.floor(width * ratio), url: url(width) }))
+    srcs: widths.map(width => ({ width, height: Math.floor(width * ratio), url: url(width) }))
 }))

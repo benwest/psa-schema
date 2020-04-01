@@ -1,4 +1,93 @@
 {
     "slug": "thonik-why-we-design",
-    "title": "Thonik: Why We Design"
+    "title": "Thonik: Why We Design",
+    "productType": {
+        "title": "Publication",
+        "slug": "Publication"
+    },
+    "tags": [
+        {
+            "title": "Thonik",
+            "slug": "thonik"
+        },
+        {
+            "title": "Power Station of DESIGN",
+            "slug": "power-station-of-design"
+        }
+    ],
+    "price": 258,
+    "buy": {
+        "label": "Buy ¥258",
+        "url": "https://wechat.cn/buy-thonik-why-we-design"
+    },
+    "images": [],
+    "publicationPages": [],
+    "details": [
+        {
+            "label": "Publication Date",
+            "value": "01.03.2019"
+        },
+        {
+            "label": "ISBN",
+            "value": "937-1-5323-3242-2"
+        },
+        {
+            "label": "Pages",
+            "value": "355"
+        },
+        {
+            "label": "Size",
+            "value": "787x1092mm"
+        }
+    ],
+    "blocks": [
+        {
+            "type": "text",
+            "title": "Description",
+            "body": "Radical, Perception, Democracy, us and them, System, Independence, Exposure, Public, Impact, Empower, Change"
+        },
+        {
+            "type": "exhibitions",
+            "title": "Related Exhibitions",
+            "exhibitions": [
+                {
+                    "title": "Thonik: Why We Design",
+                    "slug": "thonik-why-we-design",
+                    "image": {
+                        "ratio": 1.41,
+                        "placeholder": "http://powerstationofart.com/img/thonik-why-we-design-poster.jpg_placeholder.jpg",
+                        "srcs": [
+                            {
+                                "width": 200,
+                                "height": 133,
+                                "url": "http://powerstationofart.com/img/thonik-why-we-design-poster.jpg_200.jpg"
+                            },
+                            {
+                                "width": 400,
+                                "height": 266,
+                                "url": "http://powerstationofart.com/img/thonik-why-we-design-poster.jpg_400.jpg"
+                            },
+                            {
+                                "width": 800,
+                                "height": 533,
+                                "url": "http://powerstationofart.com/img/thonik-why-we-design-poster.jpg_800.jpg"
+                            },
+                            {
+                                "width": 1200,
+                                "height": 800,
+                                "url": "http://powerstationofart.com/img/thonik-why-we-design-poster.jpg_1200.jpg"
+                            },
+                            {
+                                "width": 1600,
+                                "height": 1066,
+                                "url": "http://powerstationofart.com/img/thonik-why-we-design-poster.jpg_1600.jpg"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-11-13T20:20:39+00:00",
+                    "endDate": "2018-12-13T20:20:39+00:00"
+                }
+            ]
+        }
+    ]
 }

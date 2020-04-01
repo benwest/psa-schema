@@ -1,7 +1,7 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema",
-    "$id": "psa/activity.json",
-    "description": "Activity in What's On",
+    "$id": "psa/artwork.json",
+    "description": "Artwork in PSA Collections",
     "type": "object",
     "properties": {
         "slug": {
@@ -10,25 +10,26 @@
         "title": {
             "type": "string"
         },
-        "activityType": {
-            "$ref": "definitions/tag.json"
+        "artist": {
+            "type": "string"
         },
-        "tags": {
-            "$ref": "definitions/tags.json"
+        "images": {
+            "type": "array",
+            "items": {
+                "$ref": "definitions/image.json"
+            }
         },
-        "startDate": {
-            "type": "string",
-            "format": "date-time"
+        "collectionNumber": {
+            "type": "string"
         },
-        "endDate": {
-            "type": "string",
-            "format": "date-time"
+        "date": {
+            "type": "string"
+        },
+        "medium": {
+            "type": "string"
         },
         "details": {
             "$ref": "definitions/details.json"
-        },
-        "image": {
-            "$ref": "definitions/image.json"
         },
         "blocks": {
             "$ref": "definitions/blocks.json"
@@ -37,11 +38,11 @@
     "required": [
         "slug",
         "title",
-        "image",
-        "activityType",
-        "tags",
-        "startDate",
-        "endDate",
+        "artist",
+        "images",
+        "collectionNumber",
+        "date",
+        "medium",
         "details",
         "blocks"
     ],

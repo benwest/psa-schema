@@ -1,0 +1,50 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/whats-on.json",
+    "description": "What's On index",
+    "type": "object",
+    "properties": {
+        "activityTypes": {
+            "$ref": "definitions/tags.json"
+        },
+        "newsTypes": {
+            "$ref": "definitions/tags.json"
+        },
+        "tags": {
+            "$ref": "definitions/tags.json"
+        },
+        "programs": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "type": "string"
+                    },
+                    "slug": {
+                        "$ref": "definitions/slug.json"
+                    }
+                },
+                "required": [
+                    "title",
+                    "slug"
+                ],
+                "additionalProperties": false
+            }
+        },
+        "membership": {
+            "$ref": "definitions/link.json"
+        },
+        "announcement": {
+            "$ref": "definitions/news-thumbnail.json"
+        }
+    },
+    "required": [
+        "activityTypes",
+        "newsTypes",
+        "tags",
+        "programs",
+        "membership"
+    ],
+    "additionalProperties": false
+}

@@ -1,0 +1,55 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/about-psa.json",
+    "type": "object",
+    "properties": {
+        "image": {
+            "$ref": "definitions/image.json"
+        },
+        "blocks": {
+            "$ref": "definitions/blocks.json"
+        },
+        "history": {
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string"
+                },
+                "items": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "title": {
+                                "type": "string"
+                            },
+                            "body": {
+                                "type": "string"
+                            },
+                            "image": {
+                                "$ref": "definitions/image.json"
+                            }
+                        },
+                        "required": [
+                            "title",
+                            "body",
+                            "image"
+                        ],
+                        "additionalProperties": false
+                    }
+                }
+            },
+            "required": [
+                "title",
+                "items"
+            ],
+            "additionalProperties": false
+        }
+    },
+    "required": [
+        "image",
+        "blocks",
+        "history"
+    ],
+    "additionalProperties": false
+}

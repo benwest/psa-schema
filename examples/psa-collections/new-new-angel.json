@@ -2,6 +2,70 @@
     "slug": "new-new-angel",
     "title": "New New Angel",
     "artist": "Boat Zhang",
+    "images": [
+        {
+            "ratio": 0.6666666666666666,
+            "placeholder": "http://powerstationofart.com/img/new-new-angel-1_placeholder.jpg",
+            "srcs": [
+                {
+                    "width": 200,
+                    "height": 133,
+                    "url": "http://powerstationofart.com/img/new-new-angel-1_200.jpg"
+                },
+                {
+                    "width": 400,
+                    "height": 266,
+                    "url": "http://powerstationofart.com/img/new-new-angel-1_400.jpg"
+                },
+                {
+                    "width": 800,
+                    "height": 533,
+                    "url": "http://powerstationofart.com/img/new-new-angel-1_800.jpg"
+                },
+                {
+                    "width": 1200,
+                    "height": 800,
+                    "url": "http://powerstationofart.com/img/new-new-angel-1_1200.jpg"
+                },
+                {
+                    "width": 1600,
+                    "height": 1066,
+                    "url": "http://powerstationofart.com/img/new-new-angel-1_1600.jpg"
+                }
+            ]
+        },
+        {
+            "ratio": 0.6666666666666666,
+            "placeholder": "http://powerstationofart.com/img/new-new-angel-2_placeholder.jpg",
+            "srcs": [
+                {
+                    "width": 200,
+                    "height": 133,
+                    "url": "http://powerstationofart.com/img/new-new-angel-2_200.jpg"
+                },
+                {
+                    "width": 400,
+                    "height": 266,
+                    "url": "http://powerstationofart.com/img/new-new-angel-2_400.jpg"
+                },
+                {
+                    "width": 800,
+                    "height": 533,
+                    "url": "http://powerstationofart.com/img/new-new-angel-2_800.jpg"
+                },
+                {
+                    "width": 1200,
+                    "height": 800,
+                    "url": "http://powerstationofart.com/img/new-new-angel-2_1200.jpg"
+                },
+                {
+                    "width": 1600,
+                    "height": 1066,
+                    "url": "http://powerstationofart.com/img/new-new-angel-2_1600.jpg"
+                }
+            ]
+        }
+    ],
     "collectionNumber": "000106",
     "date": "2016",
     "medium": "Video, Performance",
@@ -22,9 +86,9 @@
             "title": "Artist Interview",
             "url": "http://powerstationofart.com/boat-zhang.mp4",
             "preview": {
-                "ratio": "0.56",
+                "ratio": 0.56,
                 "placeholder": "http://powerstationofart.com/img/boat-zhang-interview_placeholder.jpg",
-                "srcset": [
+                "srcs": [
                     {
                         "width": 200,
                         "height": 112,
@@ -57,9 +121,9 @@
             "type": "bio",
             "title": "Artist CV",
             "image": {
-                "ratio": "1.5",
+                "ratio": 1.5,
                 "placeholder": "http://powerstationofart.com/img/boat-zhang-portrait_placeholder.jpg",
-                "srcset": [
+                "srcs": [
                     {
                         "width": 200,
                         "height": 300,
@@ -86,7 +150,8 @@
                         "url": "http://powerstationofart.com/img/boat-zhang-portrait_1600.jpg"
                     }
                 ]
-            }
+            },
+            "body": "Boat Zhang refers to these videos of physical performances and video work as \"a group of body practices.\" Through these \"very small, simple points, ambivalent actions related to her body, emotion and private daily life,\" she revisits themes of daily life, choice, fate, femininity, and individual identity with a unique view. Her works also reflect the spiritual need of turning inward when living in the collective. In one of the videos on display, New Angel, the artist is shown walking slowly against the flow of the crowd in a subway station. Can it ever be concluded if one was walking with or against the crowd? As the artist has said, \"I'm forever walking toward/away from you.\""
         }
     ]
 }

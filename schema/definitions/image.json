@@ -18,16 +18,35 @@
             "items": {
                 "type": "object",
                 "properties": {
-                    "width": { "type": "number" },
-                    "height": { "type": "number" },
-                    "url": { "type": "string", "format": "uri" }
+                    "width": {
+                        "type": "number"
+                    },
+                    "height": {
+                        "type": "number"
+                    },
+                    "url": {
+                        "type": "string",
+                        "format": "uri"
+                    }
                 },
-                "required": [ "width", "height", "url" ]
+                "required": [
+                    "width",
+                    "height",
+                    "url"
+                ]
             }
         },
-        "caption": { "type": "string" },
-        "alt": { "type": "string" }
+        "caption": {
+            "type": "string"
+        },
+        "alt": {
+            "type": "string"
+        }
     },
-    "required": [ "ratio", "placeholder", "srcs" ],
+    "required": [
+        "ratio",
+        "placeholder",
+        "srcs"
+    ],
     "additionalProperties": false
 }

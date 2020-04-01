@@ -2,11 +2,23 @@
     "$schema": "http://json-schema.org/draft-07/schema",
     "$id": "psa/definitions/blocks/video.json",
     "type": "object",
-    "required": [ "url", "preview" ],
+    "required": [
+        "url",
+        "preview"
+    ],
     "properties": {
-        "type": { "const": "video" },
-        "title": { "type": "string" },
-        "url": { "type": "string", "format": "uri" },
-        "preview": { "$ref": "../image.json" }
+        "type": {
+            "const": "video"
+        },
+        "title": {
+            "type": "string"
+        },
+        "url": {
+            "type": "string",
+            "format": "uri"
+        },
+        "preview": {
+            "$ref": "../image.json"
+        }
     }
 }

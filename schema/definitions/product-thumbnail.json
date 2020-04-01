@@ -1,0 +1,30 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/definitions/product-thumbnail.json",
+    "type": "object",
+    "required": [
+        "title",
+        "slug",
+        "productType",
+        "image",
+        "price"
+    ],
+    "additionalProperties": false,
+    "properties": {
+        "title": {
+            "type": "string"
+        },
+        "slug": {
+            "$ref": "./slug.json"
+        },
+        "image": {
+            "$ref": "./image.json"
+        },
+        "productType": {
+            "$ref": "./tag.json"
+        },
+        "price": {
+            "type": "number"
+        }
+    }
+}

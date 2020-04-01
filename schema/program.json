@@ -1,0 +1,42 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/program.json",
+    "description": "Index for a Program",
+    "type": "object",
+    "properties": {
+        "slug": {
+            "$ref": "definitions/slug.json"
+        },
+        "title": {
+            "type": "string"
+        },
+        "colors": {
+            "$ref": "definitions/color-scheme.json"
+        },
+        "pages": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "properties": {
+                    "title": {
+                        "type": "string"
+                    },
+                    "slug": {
+                        "$ref": "definitions/slug.json"
+                    }
+                },
+                "additionalProperties": false,
+                "required": [
+                    "title",
+                    "slug"
+                ]
+            }
+        }
+    },
+    "required": [
+        "slug",
+        "title",
+        "pages"
+    ],
+    "additionalProperties": false
+}

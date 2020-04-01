@@ -1,0 +1,106 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/program-page.json",
+    "description": "Subpage of a Program",
+    "type": "object",
+    "oneOf": [
+        {
+            "properties": {
+                "slug": {
+                    "$ref": "definitions/slug.json"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "type": {
+                    "const": "blocks"
+                },
+                "blocks": {
+                    "$ref": "defintions/blocks.json"
+                }
+            }
+        },
+        {
+            "properties": {
+                "slug": {
+                    "$ref": "definitions/slug.json"
+                },
+                "title": {
+                    "type": "string"
+                },
+                "type": {
+                    "const": "artists"
+                },
+                "artists": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "name": {
+                                "type": "string"
+                            },
+                            "country": {
+                                "type": "string"
+                            },
+                            "artworks": {
+                                "type": "array",
+                                "items": {
+                                    "type": "object",
+                                    "properties": {
+                                        "title": {
+                                            "type": "string"
+                                        },
+                                        "medium": {
+                                            "type": "string"
+                                        },
+                                        "caption": {
+                                            "type": "string"
+                                        },
+                                        "image": {
+                                            "$ref": "definitions/image.json"
+                                        }
+                                    },
+                                    "required": [
+                                        "title",
+                                        "medium",
+                                        "caption",
+                                        "image"
+                                    ]
+                                }
+                            },
+                            "bio": {
+                                "type": "object",
+                                "properties": {
+                                    "body": {
+                                        "type": "string"
+                                    },
+                                    "image": {
+                                        "$ref": "../image.json"
+                                    }
+                                },
+                                "required": [
+                                    "body",
+                                    "image"
+                                ],
+                                "additionalProperties": false
+                            }
+                        },
+                        "required": [
+                            "name",
+                            "country",
+                            "artworks",
+                            "bio"
+                        ],
+                        "additionalProperties": false
+                    }
+                }
+            }
+        }
+    ],
+    "required": [
+        "slug",
+        "title",
+        "type"
+    ],
+    "additionalProperties": false
+}
