@@ -11,6 +11,9 @@
     ],
     "additionalProperties": false,
     "properties": {
+        "type": {
+            "const": "activity"
+        },
         "title": {
             "type": "string"
         },

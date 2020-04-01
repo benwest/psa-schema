@@ -1,6 +1,7 @@
 {
     "items": [
         {
+            "type": "activity",
             "title": "The Historical Backlash of Lee Ufan",
             "slug": "the-historical-backlash-of-lee-ufan",
             "activityType": {
@@ -41,6 +42,7 @@
             "date": "2018-11-13T20:20:39+00:00"
         },
         {
+            "type": "activity",
             "title": "Archives, Translations and Protocols",
             "slug": "archives-translations-and-protocols",
             "activityType": {
@@ -81,6 +83,7 @@
             "date": "2018-11-13T20:20:39+00:00"
         },
         {
+            "type": "activity",
             "title": "Modern Architecture in Paris, 1918-1940",
             "slug": "modern-architecture-in-paris-1918-1940",
             "activityType": {
@@ -121,6 +124,7 @@
             "date": "2018-11-13T20:20:39+00:00"
         },
         {
+            "type": "activity",
             "title": "The Searching Souls: Transcending the Tides of Avant-garde",
             "slug": "the-searching-souls-transcending-the-tides-of-avant-garde",
             "activityType": {

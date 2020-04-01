@@ -1,6 +1,7 @@
 {
     "items": [
         {
+            "type": "artwork",
             "slug": "new-new-angel",
             "title": "New New Angel",
             "artist": "Boat Zhang",
@@ -42,6 +43,7 @@
             }
         },
         {
+            "type": "artwork",
             "slug": "new-new-angel",
             "title": "New New Angel",
             "artist": "Boat Zhang",

@@ -1,6 +1,7 @@
 {
     "items": [
         {
+            "type": "news",
             "title": "Emerging Curators Project 2019",
             "slug": "emerging-curators-project-2019",
             "newsType": {
@@ -10,6 +11,7 @@
             "date": "2018-11-13T20:20:39+00:00"
         },
         {
+            "type": "news",
             "title": "2019 Labor Day opening hours",
             "slug": "2019-labor-day-opening-hours",
             "newsType": {
@@ -19,6 +21,7 @@
             "date": "2018-11-13T20:20:39+00:00"
         },
         {
+            "type": "news",
             "title": "2019 Qing Ming Festival Open Hours",
             "slug": "2019-qing-ming-festival-open-hours",
             "newsType": {
@@ -28,6 +31,7 @@
             "date": "2018-11-13T20:20:39+00:00"
         },
         {
+            "type": "news",
             "title": "PSA 5F Deck Temporarily Closed",
             "slug": "psa-5f-deck-temporarily-closed",
             "newsType": {

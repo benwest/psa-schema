@@ -41,3 +41,5 @@ test('./examples/whats-on/program/*.json', require('./schema/program.json'));
 test('./examples/whats-on/program/*/*.json', require('./schema/program-page.json'));
 
 test('./examples/more/contact.json', require('./schema/page.json'));
+
+test('./examples/search-results.json', require('./schema/search-results.json'));

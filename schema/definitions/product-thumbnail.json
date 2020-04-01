@@ -11,6 +11,9 @@
     ],
     "additionalProperties": false,
     "properties": {
+        "type": {
+            "const": "product"
+        },
         "title": {
             "type": "string"
         },

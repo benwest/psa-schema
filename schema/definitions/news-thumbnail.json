@@ -10,6 +10,9 @@
     ],
     "additionalProperties": false,
     "properties": {
+        "type": {
+            "const": "news"
+        },
         "title": {
             "type": "string"
         },

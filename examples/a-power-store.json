@@ -1,6 +1,7 @@
 {
     "items": [
         {
+            "type": "product",
             "title": "On the stream: Catalogue (special edition)",
             "slug": "on-the-stream-catalogue-special-edition",
             "image": {

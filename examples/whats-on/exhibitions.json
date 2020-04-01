@@ -1,6 +1,7 @@
 {
     "items": [
         {
+            "type": "exhibition",
             "title": "Passing Through Architecture: The 10 Years of Gordon Matta-Clark",
             "slug": "passing-through-architecture-the-10-years-of-gordon-matta-clark",
             "image": {
@@ -38,6 +39,7 @@
             "endDate": "2018-11-13T20:20:39+00:00"
         },
         {
+            "type": "exhibition",
             "title": "Emerging Curators Project 2019",
             "slug": "emerging-curators-project-2019",
             "image": {
@@ -75,6 +77,7 @@
             "endDate": "2018-11-13T20:20:39+00:00"
         },
         {
+            "type": "exhibition",
             "title": "Jean Nouvel, in my head, in my eye…belonging…",
             "slug": "jean-nouvel-in-my-head-in-my-eye-belonging",
             "image": {
@@ -112,6 +115,7 @@
             "endDate": "2018-11-13T20:20:39+00:00"
         },
         {
+            "type": "exhibition",
             "title": "The Return of Guests: Selections from the PSA Collection",
             "slug": "the-return-of-guests-selections-from-the-psa-collection",
             "image": {

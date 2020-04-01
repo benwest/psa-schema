@@ -12,6 +12,9 @@
     ],
     "additionalProperties": false,
     "properties": {
+        "type": {
+            "const": "artwork"
+        },
         "title": {
             "type": "string"
         },

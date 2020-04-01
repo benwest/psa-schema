@@ -60,6 +60,7 @@
         "url": "http://powerstationofart.com/membership"
     },
     "announcement": {
+        "type": "news",
         "title": "PSA 5F Deck Temporarily Closed",
         "slug": "psa-5f-deck-temporarily-closed",
         "newsType": {
