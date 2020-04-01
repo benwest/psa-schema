@@ -18,7 +18,7 @@
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
 - **type**: Filter by productType of the item
-- **tags**: Filter by tags of the item
+- **tags**: Filter by tags of the item (`tag1|tag2`)
 
 ### A Power Store: Product
 
@@ -42,7 +42,7 @@
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
 - **type**: Filter by artworkType of the item
-- **tags**: Filter by tags of the item
+- **tags**: Filter by tags of the item (`tag1|tag2`)
 
 ### PSA Collections: Artwork
 
@@ -65,7 +65,7 @@
 **Parameters**
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
-- **tags**: Filter by tags of the item
+- **tags**: Filter by tags of the item (`tag1|tag2`)
 
 ### What's On: Exhibition
 
@@ -83,7 +83,7 @@
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
 - **type**: Filter by activityType of the item
-- **tags**: Filter by tags of the item
+- **tags**: Filter by tags of the item (`tag1|tag2`)
 
 ### What's On: Activity
 
@@ -99,7 +99,7 @@
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
 - **type**: Filter by newsType of the item
-- **tags**: Filter by tags of the item
+- **tags**: Filter by tags of the item (`tag1|tag2`)
 
 **Schema**: schema/news.json
 
@@ -126,3 +126,15 @@
 **URL**: `/more/contact`
 
 **Schema**: schema/page.json
+
+### Search Result
+
+**URL** `/search?q=<q>&limit=<limit>&offset=<offset>`
+
+**Schema**: schema/search-results.json
+
+**Parameters**
+- **q**: The search query
+- **limit**: Maximum number of items returned
+- **offset**: Index of the first item
+
