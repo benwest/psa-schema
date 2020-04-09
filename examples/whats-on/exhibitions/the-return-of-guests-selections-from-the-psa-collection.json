@@ -347,6 +347,7 @@
             "title": "Related Activities",
             "activities": [
                 {
+                    "type": "activity",
                     "title": "The Historical Backlash of Lee Ufan",
                     "slug": "the-historical-backlash-of-lee-ufan",
                     "activityType": {
@@ -388,6 +389,7 @@
                     "endDate": "2018-11-13T20:20:39+00:00"
                 },
                 {
+                    "type": "activity",
                     "title": "Archives, Translations and Protocols",
                     "slug": "archives-translations-and-protocols",
                     "activityType": {
@@ -429,6 +431,7 @@
                     "endDate": "2018-11-13T20:20:39+00:00"
                 },
                 {
+                    "type": "activity",
                     "title": "Modern Architecture in Paris, 1918-1940",
                     "slug": "modern-architecture-in-paris-1918-1940",
                     "activityType": {
@@ -470,6 +473,7 @@
                     "endDate": "2018-11-13T20:20:39+00:00"
                 },
                 {
+                    "type": "activity",
                     "title": "The Searching Souls: Transcending the Tides of Avant-garde",
                     "slug": "the-searching-souls-transcending-the-tides-of-avant-garde",
                     "activityType": {
@@ -517,6 +521,7 @@
             "title": "Related Products",
             "products": [
                 {
+                    "type": "product",
                     "title": "On the stream: Catalogue (special edition)",
                     "slug": "on-the-stream-catalogue-special-edition",
                     "image": {
@@ -563,6 +568,7 @@
             "title": "Related News",
             "news": [
                 {
+                    "type": "news",
                     "title": "2019 Qing Ming Festival Open Hours",
                     "slug": "2019-qing-ming-festival-open-hours",
                     "newsType": {
@@ -572,6 +578,7 @@
                     "date": "2018-11-13T20:20:39+00:00"
                 },
                 {
+                    "type": "news",
                     "title": "PSA 5F Deck Temporarily Closed",
                     "slug": "psa-5f-deck-temporarily-closed",
                     "newsType": {

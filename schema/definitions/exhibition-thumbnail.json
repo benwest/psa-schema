@@ -3,6 +3,7 @@
     "$id": "psa/definitions/exhibition-thumbnail.json",
     "type": "object",
     "required": [
+        "type",
         "title",
         "slug",
         "image",

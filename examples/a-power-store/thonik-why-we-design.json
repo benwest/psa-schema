@@ -51,6 +51,7 @@
             "title": "Related Exhibitions",
             "exhibitions": [
                 {
+                    "type": "exhibition",
                     "title": "Thonik: Why We Design",
                     "slug": "thonik-why-we-design",
                     "image": {

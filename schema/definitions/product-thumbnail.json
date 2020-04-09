@@ -3,6 +3,7 @@
     "$id": "psa/definitions/product-thumbnail.json",
     "type": "object",
     "required": [
+        "type",
         "title",
         "slug",
         "productType",

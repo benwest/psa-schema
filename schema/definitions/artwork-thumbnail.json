@@ -3,6 +3,7 @@
     "$id": "psa/definitions/artwork-thumbnail.json",
     "type": "object",
     "required": [
+        "type",
         "title",
         "slug",
         "artworkType",

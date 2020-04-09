@@ -3,6 +3,7 @@
     "$id": "psa/definitions/news-thumbnail.json",
     "type": "object",
     "required": [
+        "type",
         "title",
         "slug",
         "newsType",

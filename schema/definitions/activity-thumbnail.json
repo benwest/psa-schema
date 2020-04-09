@@ -3,6 +3,7 @@
     "$id": "psa/definitions/activity-thumbnail.json",
     "type": "object",
     "required": [
+        "type",
         "title",
         "slug",
         "activityType",
