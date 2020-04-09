@@ -7,7 +7,8 @@
         "slug",
         "activityType",
         "image",
-        "date"
+        "startDate",
+        "endDate"
     ],
     "additionalProperties": false,
     "properties": {
@@ -26,7 +27,11 @@
         "image": {
             "$ref": "./image.json"
         },
-        "date": {
+        "startDate": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "endDate": {
             "type": "string",
             "format": "date-time"
         }

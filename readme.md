@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-#PSA JSON API Schema
-=======
 # PSA JSON API Schema
 
 ## URLs
@@ -61,7 +58,7 @@
 
 ### What's On: Exhibitions
 
-**URL**: `/whats-on/exhibitions?offset=<offset>&limit=<limit>&tags=<tags>`
+**URL**: `/whats-on/exhibitions?offset=<offset>&limit=<limit>&tags=<tags>&startDate=<startDate>&endDate=<endDate>`
 
 **Schema**: schema/exhibitions.json
 
@@ -69,6 +66,7 @@
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
+- **startDate, endDate** Filter by date range
 
 ### What's On: Exhibition
 
@@ -78,7 +76,7 @@
 
 ### What's On: Activities
 
-**URL**: `/whats-on/activities?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>`
+**URL**: `/whats-on/activities?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>&startDate=<startDate>&endDate=<endDate>`
 
 **Schema**: schema/exhibitions.json
 
@@ -87,6 +85,7 @@
 - **offset**: Index of the first item
 - **type**: Filter by activityType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
+- **startDate, endDate** Filter by date range
 
 ### What's On: Activity
 
@@ -96,13 +95,14 @@
 
 ### What's On: News
 
-**URL**: `/whats-on/news?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>`
+**URL**: `/whats-on/news?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>&startDate=<startDate>&endDate=<endDate>`
 
 **Parameters**
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
 - **type**: Filter by newsType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
+- **startDate, endDate** Filter by date range
 
 **Schema**: schema/news.json
 
@@ -141,4 +141,3 @@
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
 
->>>>>>> 04601feda04cb7fd1ee7eea49769641410037b9d

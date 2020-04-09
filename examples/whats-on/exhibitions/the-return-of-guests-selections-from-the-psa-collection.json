@@ -384,7 +384,8 @@
                             }
                         ]
                     },
-                    "date": "2018-11-13T20:20:39+00:00"
+                    "startDate": "2018-11-13T20:20:39+00:00",
+                    "endDate": "2018-11-13T20:20:39+00:00"
                 },
                 {
                     "title": "Archives, Translations and Protocols",
@@ -424,7 +425,8 @@
                             }
                         ]
                     },
-                    "date": "2018-11-13T20:20:39+00:00"
+                    "startDate": "2018-11-13T20:20:39+00:00",
+                    "endDate": "2018-11-13T20:20:39+00:00"
                 },
                 {
                     "title": "Modern Architecture in Paris, 1918-1940",
@@ -464,7 +466,8 @@
                             }
                         ]
                     },
-                    "date": "2018-11-13T20:20:39+00:00"
+                    "startDate": "2018-11-13T20:20:39+00:00",
+                    "endDate": "2018-11-13T20:20:39+00:00"
                 },
                 {
                     "title": "The Searching Souls: Transcending the Tides of Avant-garde",
@@ -504,7 +507,8 @@
                             }
                         ]
                     },
-                    "date": "2018-11-13T20:20:39+00:00"
+                    "startDate": "2018-11-13T20:20:39+00:00",
+                    "endDate": "2018-11-13T20:20:39+00:00"
                 }
             ]
         },
