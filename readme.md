@@ -10,14 +10,14 @@
 
 ### A Power Store
 
-**URL**: `/a-power-store?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>`
+**URL**: `/a-power-store?offset=<offset>&limit=<limit>&productType=<productType>&tags=<tags>`
 
 **Schema**: schema/a-power-store.json
 
 **Parameters**
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
-- **type**: Filter by productType of the item
+- **productType**: Filter by productType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
 
 ### A Power Store: Product
@@ -34,14 +34,14 @@
 
 ### PSA Collections
 
-**URL**: `/psa-collections?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>`
+**URL**: `/psa-collections?offset=<offset>&limit=<limit>&artworkType=<artworkType>&tags=<tags>`
 
 **Schema**: schema/psa-collections.json
 
 **Parameters**
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
-- **type**: Filter by artworkType of the item
+- **artworkType**: Filter by artworkType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
 
 ### PSA Collections: Artwork
@@ -83,7 +83,7 @@
 **Parameters**
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
-- **type**: Filter by activityType of the item
+- **activityType**: Filter by activityType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
 - **startDate, endDate** Filter by date range
 
@@ -100,7 +100,7 @@
 **Parameters**
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
-- **type**: Filter by newsType of the item
+- **newsType**: Filter by newsType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
 - **startDate, endDate** Filter by date range
 
@@ -140,4 +140,3 @@
 - **q**: The search query
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
-
