@@ -10,7 +10,6 @@
         "image",
         "price"
     ],
-    "additionalProperties": false,
     "properties": {
         "type": {
             "const": "product"

@@ -47,6 +47,5 @@
         "ratio",
         "placeholder",
         "srcs"
-    ],
-    "additionalProperties": false
+    ]
 }

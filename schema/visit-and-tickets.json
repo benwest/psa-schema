@@ -21,8 +21,7 @@
                 "required": [
                     "day",
                     "time"
-                ],
-                "additionalProperties": false
+                ]
             }
         },
         "details": {
@@ -45,6 +44,5 @@
     "required": [
         "address",
         "blocks"
-    ],
-    "additionalProperties": false
+    ]
 }

@@ -17,6 +17,5 @@
         "slug",
         "title",
         "blocks"
-    ],
-    "additionalProperties": false
+    ]
 }

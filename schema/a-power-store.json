@@ -24,6 +24,5 @@
         "productTypes",
         "tags",
         "info"
-    ],
-    "additionalProperties": false
+    ]
 }

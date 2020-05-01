@@ -17,6 +17,5 @@
     "required": [
         "label",
         "url"
-    ],
-    "additionalProperties": false
+    ]
 }

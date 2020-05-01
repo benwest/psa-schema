@@ -7,7 +7,6 @@
         "title",
         "news"
     ],
-    "additionalProperties": false,
     "properties": {
         "type": {
             "const": "news"

@@ -7,7 +7,6 @@
         "body",
         "image"
     ],
-    "additionalProperties": false,
     "properties": {
         "type": {
             "const": "bio"

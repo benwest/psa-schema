@@ -16,6 +16,5 @@
     "required": [
         "items",
         "info"
-    ],
-    "additionalProperties": false
+    ]
 }

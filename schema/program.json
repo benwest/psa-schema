@@ -25,7 +25,6 @@
                         "$ref": "definitions/slug.json"
                     }
                 },
-                "additionalProperties": false,
                 "required": [
                     "title",
                     "slug"
@@ -37,6 +36,5 @@
         "slug",
         "title",
         "pages"
-    ],
-    "additionalProperties": false
+    ]
 }

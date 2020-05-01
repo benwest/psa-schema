@@ -9,7 +9,6 @@
         "newsType",
         "date"
     ],
-    "additionalProperties": false,
     "properties": {
         "type": {
             "const": "news"

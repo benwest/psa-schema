@@ -7,7 +7,6 @@
         "image",
         "size"
     ],
-    "additionalProperties": false,
     "properties": {
         "type": {
             "const": "image"

@@ -9,6 +9,5 @@
         "background": {
             "type": "string"
         }
-    },
-    "additionalProperties": false
+    }
 }

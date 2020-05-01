@@ -24,6 +24,5 @@
         "artworkTypes",
         "tags",
         "info"
-    ],
-    "additionalProperties": false
+    ]
 }

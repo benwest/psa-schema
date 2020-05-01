@@ -45,6 +45,5 @@
         "medium",
         "details",
         "blocks"
-    ],
-    "additionalProperties": false
+    ]
 }

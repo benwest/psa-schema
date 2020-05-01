@@ -50,6 +50,5 @@
         "publicationPages",
         "details",
         "blocks"
-    ],
-    "additionalProperties": false
+    ]
 }

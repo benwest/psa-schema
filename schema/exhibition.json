@@ -50,6 +50,5 @@
         "endDate",
         "details",
         "blocks"
-    ],
-    "additionalProperties": false
+    ]
 }

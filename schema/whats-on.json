@@ -28,8 +28,7 @@
                 "required": [
                     "title",
                     "slug"
-                ],
-                "additionalProperties": false
+                ]
             }
         },
         "membership": {
@@ -45,6 +44,5 @@
         "tags",
         "programs",
         "membership"
-    ],
-    "additionalProperties": false
+    ]
 }

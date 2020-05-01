@@ -13,6 +13,5 @@
     "required": [
         "title",
         "slug"
-    ],
-    "additionalProperties": false
+    ]
 }
