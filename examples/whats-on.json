@@ -47,16 +47,12 @@
             "slug": "power-station-of-design"
         },
         {
-            "title": "Shanghai Bienialle",
-            "slug": "shanghai-bienialle"
-        },
-        {
-            "title": "Architecture Series",
-            "slug": "architexture-series"
+            "title": "Shanghai Biennialle",
+            "slug": "shanghai-biennale"
         }
     ],
     "membership": {
-        "label": "Become a Memeber",
+        "label": "Become a Member",
         "url": "http://powerstationofart.com/membership"
     },
     "announcement": {

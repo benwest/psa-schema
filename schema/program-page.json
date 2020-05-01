@@ -16,9 +16,16 @@
                     "const": "blocks"
                 },
                 "blocks": {
-                    "$ref": "defintions/blocks.json"
+                    "$ref": "definitions/blocks.json"
                 }
-            }
+            },
+            "required": [
+                "slug",
+                "title",
+                "type",
+                "blocks"
+            ],
+            "additionalProperties": false
         },
         {
             "properties": {
@@ -75,7 +82,7 @@
                                         "type": "string"
                                     },
                                     "image": {
-                                        "$ref": "../image.json"
+                                        "$ref": "definitions/image.json"
                                     }
                                 },
                                 "required": [
@@ -94,13 +101,14 @@
                         "additionalProperties": false
                     }
                 }
-            }
+            },
+            "required": [
+                "slug",
+                "title",
+                "type",
+                "artists"
+            ],
+            "additionalProperties": false
         }
-    ],
-    "required": [
-        "slug",
-        "title",
-        "type"
-    ],
-    "additionalProperties": false
+    ]
 }

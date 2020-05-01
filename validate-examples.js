@@ -37,8 +37,8 @@ test('./examples/whats-on/activities.json', require('./schema/activities.json'))
 test('./examples/whats-on/activities/*.json', require('./schema/activity.json'));
 test('./examples/whats-on/news.json', require('./schema/news.json'));
 test('./examples/whats-on/news/*.json', require('./schema/news-item.json'));
-test('./examples/whats-on/program/*.json', require('./schema/program.json'));
-test('./examples/whats-on/program/*/*.json', require('./schema/program-page.json'));
+test('./examples/whats-on/programs/*.json', require('./schema/program.json'));
+test('./examples/whats-on/programs/*/*.json', require('./schema/program-page.json'));
 
 test('./examples/more/contact.json', require('./schema/page.json'));
 

@@ -2,6 +2,47 @@
     "items": [
         {
             "type": "product",
+            "title": "Thonik: Why We Design",
+            "slug": "thonik-why-we-design",
+            "image": {
+                "ratio": 0.6666666666666666,
+                "placeholder": "http://powerstationofart.com/img/on-the-stream-caalogue.jpg_placeholder.jpg",
+                "srcs": [
+                    {
+                        "width": 200,
+                        "height": 133,
+                        "url": "http://powerstationofart.com/img/on-the-stream-caalogue.jpg_200.jpg"
+                    },
+                    {
+                        "width": 400,
+                        "height": 266,
+                        "url": "http://powerstationofart.com/img/on-the-stream-caalogue.jpg_400.jpg"
+                    },
+                    {
+                        "width": 800,
+                        "height": 533,
+                        "url": "http://powerstationofart.com/img/on-the-stream-caalogue.jpg_800.jpg"
+                    },
+                    {
+                        "width": 1200,
+                        "height": 800,
+                        "url": "http://powerstationofart.com/img/on-the-stream-caalogue.jpg_1200.jpg"
+                    },
+                    {
+                        "width": 1600,
+                        "height": 1066,
+                        "url": "http://powerstationofart.com/img/on-the-stream-caalogue.jpg_1600.jpg"
+                    }
+                ]
+            },
+            "productType": {
+                "title": "Publication",
+                "slug": "publication"
+            },
+            "price": 258
+        },
+        {
+            "type": "product",
             "title": "On the stream: Catalogue (special edition)",
             "slug": "on-the-stream-catalogue-special-edition",
             "image": {
