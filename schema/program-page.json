@@ -93,8 +93,7 @@
                         "required": [
                             "name",
                             "country",
-                            "artworks",
-                            "bio"
+                            "artworks"
                         ]
                     }
                 }
