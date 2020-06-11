@@ -32,12 +32,6 @@
                 "$ref": "definitions/image.json"
             }
         },
-        "publicationPages": {
-            "type": "array",
-            "items": {
-                "$ref": "definitions/image.json"
-            }
-        },
         "details": {
             "$ref": "definitions/details.json"
         },
@@ -51,7 +45,6 @@
         "productType",
         "tags",
         "images",
-        "publicationPages",
         "details",
         "blocks"
     ]

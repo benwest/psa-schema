@@ -21,7 +21,6 @@
         "url": "https://wechat.cn/buy-thonik-why-we-design"
     },
     "images": [],
-    "publicationPages": [],
     "details": [
         {
             "label": "Publication Date",
@@ -45,6 +44,10 @@
             "type": "text",
             "title": "Description",
             "body": "Radical, Perception, Democracy, us and them, System, Independence, Exposure, Public, Impact, Empower, Change"
+        },
+        {
+            "type": "book",
+            "pages": []
         },
         {
             "type": "exhibitions",

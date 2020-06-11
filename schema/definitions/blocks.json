@@ -40,6 +40,9 @@
             },
             {
                 "$ref": "blocks/artworks.json"
+            },
+            {
+                "$ref": "blocks/book.json"
             }
         ]
     }
