@@ -19,8 +19,12 @@
         "price": {
             "type": "number"
         },
-        "buy": {
-            "$ref": "definitions/link.json"
+        "buyLabel": {
+            "type": "string"
+        },
+        "buyUrl": {
+            "type": "string",
+            "format": "uri"
         },
         "images": {
             "type": "array",

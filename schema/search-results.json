@@ -17,6 +17,9 @@
                         "$ref": "definitions/news-thumbnail.json"
                     },
                     {
+                        "$ref": "definitions/program-thumbnail.json"
+                    },
+                    {
                         "$ref": "definitions/product-thumbnail.json"
                     },
                     {

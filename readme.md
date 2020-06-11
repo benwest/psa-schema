@@ -19,6 +19,7 @@
 - **offset**: Index of the first item
 - **productType**: Filter by productType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
+- **q**: Search query
 
 ### A Power Store: Product
 
@@ -43,6 +44,7 @@
 - **offset**: Index of the first item
 - **artworkType**: Filter by artworkType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
+- **q**: Search query
 
 ### PSA Collections: Artwork
 
@@ -67,6 +69,7 @@
 - **offset**: Index of the first item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
 - **startDate, endDate** Filter by date range
+- **q**: Search query
 
 ### What's On: Exhibition
 
@@ -78,7 +81,7 @@
 
 **URL**: `/whats-on/activities?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>&startDate=<startDate>&endDate=<endDate>`
 
-**Schema**: schema/exhibitions.json
+**Schema**: schema/activities.json
 
 **Parameters**
 - **limit**: Maximum number of items returned
@@ -86,6 +89,7 @@
 - **activityType**: Filter by activityType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
 - **startDate, endDate** Filter by date range
+- **q**: Search query
 
 ### What's On: Activity
 
@@ -97,14 +101,15 @@
 
 **URL**: `/whats-on/news?offset=<offset>&limit=<limit>&type=<type>&tags=<tags>&startDate=<startDate>&endDate=<endDate>`
 
+**Schema**: schema/news.json
+
 **Parameters**
 - **limit**: Maximum number of items returned
 - **offset**: Index of the first item
 - **newsType**: Filter by newsType of the item
 - **tags**: Filter by tags of the item (`tag1|tag2`)
 - **startDate, endDate** Filter by date range
-
-**Schema**: schema/news.json
+- **q**: Search query
 
 ### What's On: News Item
 

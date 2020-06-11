@@ -30,8 +30,9 @@
         "buyTickets": {
             "$ref": "definitions/link.json"
         },
-        "map": {
-            "$ref": "definitions/image.json"
+        "mapEmbed": {
+            "type": "string",
+            "format": "uri"
         },
         "mapUrl": {
             "type": "string",

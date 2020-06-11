@@ -1,0 +1,35 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "$id": "psa/definitions/program-thumbnail.json",
+    "type": "object",
+    "required": [
+        "type",
+        "title",
+        "slug",
+        "image",
+        "startDate",
+        "endDate"
+    ],
+    "properties": {
+        "type": {
+            "const": "program"
+        },
+        "title": {
+            "type": "string"
+        },
+        "slug": {
+            "$ref": "./slug.json"
+        },
+        "image": {
+            "$ref": "./image.json"
+        },
+        "startDate": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "endDate": {
+            "type": "string",
+            "format": "date-time"
+        }
+    }
+}
