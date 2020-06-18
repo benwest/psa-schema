@@ -13,6 +13,10 @@
         "colors": {
             "$ref": "definitions/color-scheme.json"
         },
+        "logo": {
+            "type": "string",
+            "description": "URL to an SVG file"
+        },
         "pages": {
             "type": "array",
             "items": {

@@ -16,9 +16,6 @@
         "tags": {
             "$ref": "definitions/tags.json"
         },
-        "price": {
-            "type": "number"
-        },
         "buyLabel": {
             "type": "string"
         },
