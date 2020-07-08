@@ -24,6 +24,9 @@
             "type": "string",
             "format": "date-time"
         },
+        "reservations": {
+            "type": "boolean"
+        },
         "details": {
             "$ref": "definitions/details.json"
         },

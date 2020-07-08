@@ -31,7 +31,7 @@
             "format": "date-time"
         },
         "buyTicket": {
-            "$ref": "definitions/link.json"
+            "type": "boolean"
         },
         "details": {
             "$ref": "definitions/details.json"

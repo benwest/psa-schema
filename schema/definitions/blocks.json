@@ -43,6 +43,9 @@
             },
             {
                 "$ref": "blocks/book.json"
+            },
+            {
+                "$ref": "blocks/programs.json"
             }
         ]
     }

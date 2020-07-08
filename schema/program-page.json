@@ -59,6 +59,9 @@
                                         "medium": {
                                             "type": "string"
                                         },
+                                        "date": {
+                                            "type": "string"
+                                        },
                                         "caption": {
                                             "type": "string"
                                         },
