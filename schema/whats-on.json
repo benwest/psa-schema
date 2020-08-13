@@ -23,6 +23,10 @@
                     },
                     "slug": {
                         "$ref": "definitions/slug.json"
+                    },
+                    "logo": {
+                        "type": "string",
+                        "description": "URL to an SVG file"
                     }
                 },
                 "required": [
