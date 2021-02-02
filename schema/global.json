@@ -1,0 +1,11 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "psa/global.json",
+  "type": "object",
+  "properties": {
+    "colors": {
+      "$ref": "definitions/color-scheme.json"
+    }
+  },
+  "required": []
+}
