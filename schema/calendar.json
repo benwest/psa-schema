@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "psa/calendar.json",
+  "description": "Calendar Closure Days",
+  "type": "object",
+  "properties": {
+      "dates": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "date": {
+                "type": "string"
+              },
+              "status": {
+                "oneOf": [{"const": "OPEN"}, {"const": "CLOSE"}]
+              }
+            },
+            "required": ["date", "status"]
+          }
+      }
+  },
+  "required": [
+      "dates"
+  ]
+}
