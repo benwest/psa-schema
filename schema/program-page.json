@@ -1,112 +1,93 @@
 {
-    "$schema": "http://json-schema.org/draft-07/schema",
-    "$id": "psa/program-page.json",
-    "description": "Subpage of a Program",
-    "type": "object",
-    "oneOf": [
-        {
-            "properties": {
-                "slug": {
-                    "$ref": "definitions/slug.json"
-                },
-                "title": {
-                    "type": "string"
-                },
-                "type": {
-                    "const": "blocks"
-                },
-                "blocks": {
-                    "$ref": "definitions/blocks.json"
-                }
-            },
-            "required": [
-                "slug",
-                "title",
-                "type",
-                "blocks"
-            ]
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "psa/program-page.json",
+  "description": "Subpage of a Program",
+  "type": "object",
+  "oneOf": [
+    {
+      "properties": {
+        "slug": {
+          "$ref": "definitions/slug.json"
         },
-        {
-            "properties": {
-                "slug": {
-                    "$ref": "definitions/slug.json"
-                },
-                "title": {
-                    "type": "string"
-                },
-                "type": {
-                    "const": "artists"
-                },
-                "artists": {
-                    "type": "array",
-                    "items": {
-                        "type": "object",
-                        "properties": {
-                            "name": {
-                                "type": "string"
-                            },
-                            "country": {
-                                "type": "string"
-                            },
-                            "artworks": {
-                                "type": "array",
-                                "items": {
-                                    "type": "object",
-                                    "properties": {
-                                        "title": {
-                                            "type": "string"
-                                        },
-                                        "medium": {
-                                            "type": "string"
-                                        },
-                                        "date": {
-                                            "type": "string"
-                                        },
-                                        "caption": {
-                                            "type": "string"
-                                        },
-                                        "image": {
-                                            "$ref": "definitions/image.json"
-                                        }
-                                    },
-                                    "required": [
-                                        "title",
-                                        "medium",
-                                        "caption",
-                                        "image"
-                                    ]
-                                }
-                            },
-                            "bio": {
-                                "type": "object",
-                                "properties": {
-                                    "body": {
-                                        "type": "string"
-                                    },
-                                    "image": {
-                                        "$ref": "definitions/image.json"
-                                    }
-                                },
-                                "required": [
-                                    "body",
-                                    "image"
-                                ]
-                            }
-                        },
-                        "required": [
-                            "name",
-                            "country",
-                            "artworks"
-                        ]
-                    }
-                }
-            },
-            "required": [
-                "slug",
-                "title",
-                "type",
-                "artists"
-            ]
+        "title": {
+          "type": "string"
+        },
+        "type": {
+          "const": "blocks"
+        },
+        "blocks": {
+          "$ref": "definitions/blocks.json"
         }
-    ]
+      },
+      "required": ["slug", "title", "type", "blocks"]
+    },
+    {
+      "properties": {
+        "slug": {
+          "$ref": "definitions/slug.json"
+        },
+        "title": {
+          "type": "string"
+        },
+        "type": {
+          "const": "artists"
+        },
+        "layout": {
+          "oneOf": [{ "const": "list" }, { "const": "grid" }]
+        },
+        "artists": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "country": {
+                "type": "string"
+              },
+              "artworks": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "title": {
+                      "type": "string"
+                    },
+                    "medium": {
+                      "type": "string"
+                    },
+                    "date": {
+                      "type": "string"
+                    },
+                    "caption": {
+                      "type": "string"
+                    },
+                    "image": {
+                      "$ref": "definitions/image.json"
+                    }
+                  },
+                  "required": ["title", "medium", "caption", "image"]
+                }
+              },
+              "bio": {
+                "type": "object",
+                "properties": {
+                  "body": {
+                    "type": "string"
+                  },
+                  "image": {
+                    "$ref": "definitions/image.json"
+                  }
+                },
+                "required": ["body", "image"]
+              }
+            },
+            "required": ["name", "country", "artworks"]
+          }
+        }
+      },
+      "required": ["slug", "title", "type", "artists"]
+    }
+  ]
 }
